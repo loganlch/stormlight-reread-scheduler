@@ -7,8 +7,7 @@ from datetime import datetime
 # Stormlight Reread Calculator
 Enter a start date and receive a reading schedule.
 """
-
-start_date = st.date_input(label="Start Date", min_value=datetime.now())
+start_date = datetime.combine(st.date_input(label="Start Date", min_value=datetime.now()), datetime.min.time())
 
 end_date = datetime.strptime('12/06/2024', '%m/%d/%Y')
 

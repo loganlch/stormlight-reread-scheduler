@@ -1,800 +1,849 @@
-book,chapter_num,chapter_title,pov,word_count,word_percentage
-The Way of Kings,0,Prelude to the Stormlight Archive,Kalak,"1,290.00",0.34%
-The Way of Kings,0.5,Prologue: To Kill,Szeth-son-son-Vallano,"6,128.00",1.59%
-The Way of Kings,1,Ch1: Stormblessed,Cenn,"4,510.00",1.17%
-The Way of Kings,2,Ch2: Honor is Dead,Kaladin,"5,023.00",1.31%
-The Way of Kings,3,Ch3: City of Bells,Shallan Davar,"5,279.00",1.37%
-The Way of Kings,4,Ch4: The Shattered Plains,Kaladin,"4,100.00",1.07%
-The Way of Kings,5,Ch5: Heretic,Shallan Davar,"3,994.00",1.04%
-The Way of Kings,6,Ch6: Bridge Four,Kaladin,"7,184.00",1.87%
-The Way of Kings,7,Ch7: Anything Reasonable,Shallan Davar,"6,146.00",1.60%
-The Way of Kings,8,Ch8: Nearer the Flame,Shallan Davar,"6,887.00",1.79%
-The Way of Kings,9,Ch9: Damnation,Kaladin,"2,316.00",0.60%
-The Way of Kings,10,Ch10: Stories of Surgeons,Kaladin (flashback),"2,290.00",0.60%
-The Way of Kings,11,Ch11: Droplets,Kaladin,"3,160.00",0.82%
-The Way of Kings,11.1,Interlude: Ishikk,Ishikk,"2,058.00",0.54%
-The Way of Kings,11.2,Interlude: Nan Balat,Balat Davar,"1,344.00",0.35%
-The Way of Kings,11.3,Interlude: The Glory of Ignorance,Szeth-son-son-Vallano,"2,017.00",0.52%
-The Way of Kings,12,Ch12: Unity,Adolin Kholin,"1,402.00",0.36%
-The Way of Kings,12,Ch12: Unity,Dalinar Kholin,"1,692.00",0.44%
-The Way of Kings,12,Ch12: Unity,Adolin Kholin,"4,535.00",1.18%
-The Way of Kings,13,Ch13: Ten Heartbeats,Dalinar Kholin,"2,626.00",0.68%
-The Way of Kings,13,Ch13: Ten Heartbeats,Adolin Kholin,726.00,0.19%
-The Way of Kings,14,Ch14: Payday,Kaladin,"3,872.00",1.01%
-The Way of Kings,15,Ch15: The Decoy,Adolin Kholin,635.00,0.17%
-The Way of Kings,15,Ch15: The Decoy,Dalinar Kholin,"3,493.00",0.91%
-The Way of Kings,15,Ch15: The Decoy,Adolin Kholin,"4,134.00",1.08%
-The Way of Kings,15,Ch15: The Decoy,Dalinar Kholin,889.00,0.23%
-The Way of Kings,16,Ch16: Cocoons,Kaladin (flashback),"5,600.00",1.46%
-The Way of Kings,17,"Ch17: A Bloody, Red Sunset",Kaladin,"6,974.00",1.81%
-The Way of Kings,18,Ch18: Highprince of War,Adolin Kholin,"1,107.00",0.29%
-The Way of Kings,18,Ch18: Highprince of War,Dalinar Kholin,"2,193.00",0.57%
-The Way of Kings,18,Ch18: Highprince of War,Adolin Kholin,"1,481.00",0.39%
-The Way of Kings,18,Ch18: Highprince of War,Dalinar Kholin,"3,638.00",0.95%
-The Way of Kings,19,Ch19: Starfalls,Dalinar Kholin,"5,936.00",1.54%
-The Way of Kings,20,Ch20: Scarlet,Kaladin (flashback),748.00,0.19%
-The Way of Kings,21,Ch21: Why Men Lie,Kaladin,"4,364.00",1.14%
-The Way of Kings,22,"Ch22: Eyes, Hands or Spheres",Dalinar Kholin,"5,671.00",1.48%
-The Way of Kings,23,Ch23: Many Uses,Kaladin,"5,422.00",1.41%
-The Way of Kings,24,Ch24: The Gallery of Maps,Dalinar Kholin,"2,137.00",0.56%
-The Way of Kings,24,Ch24: The Gallery of Maps,Adolin Kholin,"1,336.00",0.35%
-The Way of Kings,25,Ch25: The Butcher,Kaladin (flashback),"3,285.00",0.85%
-The Way of Kings,26,Ch26: Stillness,Dalinar Kholin,"6,587.00",1.71%
-The Way of Kings,27,Ch27: Chasm Duty,Kaladin,"9,105.00",2.37%
-The Way of Kings,28,Ch28: Decision,Adolin Kholin,"3,157.00",0.82%
-The Way of Kings,28,Ch28: Decision,Dalinar Kholin,"6,403.00",1.67%
-The Way of Kings,28.1,Interlude: Rysn,Rysn,"2,768.00",0.72%
-The Way of Kings,28.2,Interlude: Axies the Collector,Axies the Collector,"2,100.00",0.55%
-The Way of Kings,28.3,Interlude: A Work of Art,Szeth-son-son-Vallano,"3,471.00",0.90%
-The Way of Kings,29,Ch29: Errorgance,Shallan Davar,"6,562.00",1.71%
-The Way of Kings,30,Ch30: Darkness Unseen,Kaladin,328.00,0.09%
-The Way of Kings,30,Ch30: Darkness Unseen,Gaz,"1,046.00",0.27%
-The Way of Kings,30,Ch30: Darkness Unseen,Kaladin,"1,862.00",0.48%
-The Way of Kings,30,Ch30: Darkness Unseen,Gaz,401.00,0.10%
-The Way of Kings,31,Ch31: Beneath the Skin,Kaladin (flashback),"1,994.00",0.52%
-The Way of Kings,32,Ch32: Side Carry,Kaladin,"4,813.00",1.25%
-The Way of Kings,33,Ch33: Cymatics,Shallan Davar,"5,708.00",1.49%
-The Way of Kings,34,Ch34: Stormwall,Kaladin,"1,981.00",0.52%
-The Way of Kings,35,Ch35: A Light by Which to See,Kaladin,"1,197.00",0.31%
-The Way of Kings,35,Ch35: A Light by Which to See,Teft,697.00,0.18%
-The Way of Kings,36,Ch36: The Lesson,Shallan Davar,"5,441.00",1.42%
-The Way of Kings,37,Ch37: Sides,Kaladin (flashback),"5,810.00",1.51%
-The Way of Kings,38,Ch38: Envisager,Kaladin,721.00,0.19%
-The Way of Kings,38,Ch38: Envisager,Teft,992.00,0.26%
-The Way of Kings,39,Ch39: Burned into Her,Shallan Davar,"3,770.00",0.98%
-The Way of Kings,40,Ch40: Eyes of Red and Blue,Kaladin,"5,077.00",1.32%
-The Way of Kings,41,Ch41: Of Alds and Milp,Kaladin (flashback),"2,070.00",0.54%
-The Way of Kings,42,Ch42: Beggars and Barmaids,Shallan Davar,"5,419.00",1.41%
-The Way of Kings,43,Ch43: The Wretch,Kaladin,"4,544.00",1.18%
-The Way of Kings,44,Ch44: The Weeping,Kaladin (flashback),"4,720.00",1.23%
-The Way of Kings,45,Ch45: Shadesmar,Shallan Davar,"7,799.00",2.03%
-The Way of Kings,46,Ch46: Child of Tanavast,Kaladin,"7,135.00",1.86%
-The Way of Kings,47,Ch47: Stormblessings,Kaladin (flashback),"4,879.00",1.27%
-The Way of Kings,48,Ch48: Strawberry,Shallan Davar,"3,422.00",0.89%
-The Way of Kings,49,Ch49: To Care,Kaladin,"3,513.00",0.91%
-The Way of Kings,50,Ch50: Backbreaker Powder,Shallan Davar,"1,237.00",0.32%
-The Way of Kings,51,Ch51: Sas Nahn,Kaladin (flashback),"1,882.00",1.71%
-The Way of Kings,51.1,Interlude: Baxil,Baxil,"1,267.00",0.33%
-The Way of Kings,51.2,Interlude: Geranid,Geranid,"1,446.00",0.38%
-The Way of Kings,51.3,Interlude: Death Wears White,Szeth-son-son-Vallano,"2,884.00",0.75%
-The Way of Kings,52,Ch52: A Highway to the Sun,Adolin Kholin,740.00,0.19%
-The Way of Kings,52,Ch52: A Highway to the Sun,Dalinar Kholin,"6,235.00",1.62%
-The Way of Kings,53,Ch53: Dunny,Kaladin,"2,658.00",0.69%
-The Way of Kings,54,Ch54: Gibletish,Dalinar Kholin,"5,548.00",1.44%
-The Way of Kings,55,Ch55: An Emerald Broam,Kaladin,"5,801.00",1.51%
-The Way of Kings,56,Ch56: That Storming Book,Dalinar Kholin,"4,740.00",1.23%
-The Way of Kings,57,Ch57: Wandersail,Kaladin,"8,868.00",2.31%
-The Way of Kings,58,Ch58: The Journey,Adolin Kholin,"2,242.00",0.58%
-The Way of Kings,58,Ch58: The Journey,Dalinar Kholin,"5,121.00",1.33%
-The Way of Kings,59,Ch59: An Honor,Kaladin,"6,553.00",1.71%
-The Way of Kings,60,Ch60: That Which We Cannot Have,Dalinar Kholin,"4,129.00",1.07%
-The Way of Kings,61,Ch61: Right for Wrong,Dalinar Kholin,"3,123.00",0.81%
-The Way of Kings,62,Ch62: Three Glyphs,Kaladin,"5,108.00",1.33%
-The Way of Kings,63,Ch63: Fear,Kaladin,"2,111.00",0.55%
-The Way of Kings,64,Ch64: A Man of Extremes,Dalinar Kholin,"1,728.00",0.45%
-The Way of Kings,64,Ch64: A Man of Extremes,Kaladin,535.00,0.14%
-The Way of Kings,64,Ch64: A Man of Extremes,Adolin Kholin,870.00,0.23%
-The Way of Kings,65,Ch65: The Tower,Dalinar Kholin,"1,072.00",0.28%
-The Way of Kings,65,Ch65: The Tower,Kaladin,796.00,0.21%
-The Way of Kings,65,Ch65: The Tower,Dalinar Kholin,"2,076.00",0.54%
-The Way of Kings,66,Ch66: Codes,Kaladin,890.00,0.23%
-The Way of Kings,66,Ch66: Codes,Dalinar Kholin,"1,574.00",0.41%
-The Way of Kings,67,Ch67: Words,Kaladin,"2,126.00",0.55%
-The Way of Kings,67,Ch67: Words,Dalinar Kholin,780.00,0.20%
-The Way of Kings,67,Ch67: Words,Kaladin,"1,612.00",0.42%
-The Way of Kings,67,Ch67: Words,Kaladin (flashback),"1,944.00",0.51%
-The Way of Kings,67,Ch67: Words,Kaladin,669.00,0.17%
-The Way of Kings,67,Ch67: Words,Teft,146.00,0.04%
-The Way of Kings,68,Ch68: Eshonai,Adolin Kholin,269.00,0.07%
-The Way of Kings,68,Ch68: Eshonai,Teft,417.00,0.11%
-The Way of Kings,68,Ch68: Eshonai,Dalinar Kholin,"1,375.00",0.36%
-The Way of Kings,68,Ch68: Eshonai,Kaladin,"2,501.00",0.65%
-The Way of Kings,68,Ch68: Eshonai,Dalinar Kholin,377.00,0.10%
-The Way of Kings,68,Ch68: Eshonai,Kaladin,320.00,0.08%
-The Way of Kings,68,Ch68: Eshonai,Dalinar Kholin,"1,430.00",0.37%
-The Way of Kings,69,Ch69: Justice,Navani Kholin,"1,669.00",0.43%
-The Way of Kings,69,Ch69: Justice,Dalinar Kholin,"2,552.00",0.66%
-The Way of Kings,69,Ch69: Justice,Kaladin,"1,072.00",0.28%
-The Way of Kings,69,Ch69: Justice,Dalinar Kholin,"2,328.00",0.61%
-The Way of Kings,70,Ch70: Sea of Glass,Shallan Davar,"2,397.00",0.62%
-The Way of Kings,71,Ch71: Recorded in Blood,Szeth-son-son-Vallano,"2,561.00",0.67%
-The Way of Kings,72,Ch72: Veristitalian,Shallan Davar,807.00,0.21%
-The Way of Kings,73,Ch73: Trust,Kaladin,"3,400.00",0.88%
-The Way of Kings,74,Ch74: Ghostblood,Shallan Davar,942.00,0.25%
-The Way of Kings,75,Ch75: In the Top Room,Dalinar Kholin,"1,948.00",0.51%
-The Way of Kings,76,Epilogue: Of Most Worth,Wit,"1,595.00",0.42%
-Words of Radiance,0,Prologue: To Question,Jasnah Kholin,"5,283.00",1.33%
-Words of Radiance,1,1: Santhid,Shallan Davar,"7,930.00",1.98%
-Words of Radiance,2,2: Bridge Four,Kaladin,"5,471.00",1.37%
-Words of Radiance,3,3: Pattern,Shallan Davar,"2,849.00",0.72%
-Words of Radiance,4,4: Taker of Secrets,Dalinar Kholin,"4,285.00",1.08%
-Words of Radiance,5,5: Ideals,Kaladin,"1,846.00",0.46%
-Words of Radiance,5,5: Ideals,Torol Sadeas,771.00,0.19%
-Words of Radiance,5,5: Ideals,Kaladin,"5,883.00",1.48%
-Words of Radiance,6,6: Terrible Destruction,Shallan Davar,"4,424.00",1.11%
-Words of Radiance,7,7: Open Flame,Shallan Davar,"2,217.00",0.56%
-Words of Radiance,8,8: Knives in the Back • Soldiers on the Field,Dalinar Kholin,"2,618.00",0.66%
-Words of Radiance,9,9: Walking the Grave,Kaladin,"3,008.00",0.76%
-Words of Radiance,10,10: Red Carpet Once White,Shallan Davar (flashback),322.00,0.08%
-Words of Radiance,11,11: An Illusion of Perception,Shallan Davar,"4,062.00",1.02%
-Words of Radiance,12,12: Hero,Kaladin,"4,531.00",1.14%
-Words of Radiance,12.1,I-1. Narak,Eshonai,"3,540.00",0.89%
-Words of Radiance,12.2,I-2. Ym,Ym,"2,986.00",0.75%
-Words of Radiance,12.3,I-3. Rysn,Rysn,"7,602.00",1.91%
-Words of Radiance,12.4,I-4. Last Legion,Eshonai,"4,209.00",1.06%
-Words of Radiance,13,13: The Day’s Masterpiece,Shallan Davar,"2,731.00",0.69%
-Words of Radiance,14,14: Ironstance,Adolin Kholin,"2,922.00",0.73%
-Words of Radiance,15,15: A Hand with the Tower,Shallan Davar,"2,256.00",0.57%
-Words of Radiance,16,16: Swordmaster,Kaladin,"4,464.00",1.12%
-Words of Radiance,17,17: A Pattern,Shallan Davar,"4,848.00",1.22%
-Words of Radiance,18,18: Bruises,Kaladin,"3,877.00",0.97%
-Words of Radiance,19,19: Safe Things,Shallan Davar (flashback),"1,447.00",0.36%
-Words of Radiance,20,20: The Coldness of Clarity,Shallan Davar,"2,862.00",0.72%
-Words of Radiance,21,21: Ashes,Shallan Davar,"2,371.00",0.60%
-Words of Radiance,22,22: Lights in the Storm,Kaladin,"4,476.00",1.12%
-Words of Radiance,23,23: Assassin,Kaladin,"1,889.00",0.47%
-Words of Radiance,24,24: Tyn,Shallan Davar,"4,344.00",1.09%
-Words of Radiance,25,25: Monsters,Kaladin,"4,356.00",1.09%
-Words of Radiance,26,26: The Feather,Adolin Kholin,"3,790.00",0.95%
-Words of Radiance,27,27: Fabrications to Distract,Shallan Davar (flashback),867.00,0.22%
-Words of Radiance,28,28: Boots,Shallan Davar,"2,831.00",0.71%
-Words of Radiance,29,29: Rule of Blood,Torol Sadeas,"3,191.00",0.80%
-Words of Radiance,30,30: Nature Blushing,Shallan Davar,"2,592.00",0.65%
-Words of Radiance,31,31: The Stillness Before,Kaladin,880.00,0.22%
-Words of Radiance,31,31: The Stillness Before,Shallan Davar,"1,392.00",0.35%
-Words of Radiance,32,32: The One Who Hates,Kaladin,758.00,0.19%
-Words of Radiance,32,32: The One Who Hates,Shallan Davar,84.00,0.02%
-Words of Radiance,32,32: The One Who Hates,Kaladin,"2,487.00",0.62%
-Words of Radiance,33,33: Burdens,Kaladin,"1,856.00",0.47%
-Words of Radiance,33,33: Burdens,Adolin Kholin,252.00,0.06%
-Words of Radiance,33,33: Burdens,Kaladin,824.00,0.21%
-Words of Radiance,34,34: Blossoms and Cake,Shallan Davar,"2,772.00",0.70%
-Words of Radiance,34.1,I-5. The Rider of Storms,Eshonai,"1,381.00",0.35%
-Words of Radiance,34.2,I-6. Zahel,Zahel,434.00,0.11%
-Words of Radiance,34.3,I-7. Taln,Talenel,915.00,0.23%
-Words of Radiance,34.4,I-8. A Form of Power,Eshonai,607.00,0.15%
-Words of Radiance,35,35: The Multiplied Strain of Simultaneous Infusion,Adolin Kholin,"2,120.00",0.53%
-Words of Radiance,35,35: The Multiplied Strain of Simultaneous Infusion,Navani Kholin,"2,522.00",0.63%
-Words of Radiance,36,36: A New Woman,Shallan Davar,"4,614.00",1.16%
-Words of Radiance,37,37: A Matter of Perspective,Adolin Kholin,"2,624.00",0.66%
-Words of Radiance,38,38: The Silent Storm,Shallan Davar,"5,431.00",1.36%
-Words of Radiance,39,39: Heterochromatic,Shallan Davar (flashback),"3,032.00",0.76%
-Words of Radiance,40,40: Palona,Shallan Davar,"2,141.00",0.54%
-Words of Radiance,41,41: Scars,Kaladin,"5,543.00",1.39%
-Words of Radiance,42,42: Mere Vapors,Shallan Davar,"2,455.00",0.62%
-Words of Radiance,43,43: The Ghostbloods,Shallan Davar,"5,401.00",1.36%
-Words of Radiance,44,44: One Form of Justice,Kaladin,"5,531.00",1.39%
-Words of Radiance,45,45: Middlefest,Shallan Davar (flashback),"6,710.00",1.68%
-Words of Radiance,46,46: Patriots,Kaladin,"6,669.00",1.67%
-Words of Radiance,47,47: Feminine Wiles,Shallan Davar,"3,612.00",0.91%
-Words of Radiance,48,48: No More Weakness,Shallan Davar (flashback),"3,356.00",0.84%
-Words of Radiance,49,49: Watching the World Transform,Shallan Davar,"6,311.00",1.58%
-Words of Radiance,50,50: Uncut Gems,Adolin Kholin,"2,800.00",0.70%
-Words of Radiance,51,51: Heirs,Adolin Kholin,"2,752.00",0.69%
-Words of Radiance,52,52: Into the Sky,Kaladin,252.00,0.06%
-Words of Radiance,52,52: Into the Sky,Shallan Davar,"1,124.00",0.28%
-Words of Radiance,52,52: Into the Sky,Kaladin,493.00,0.12%
-Words of Radiance,52,52: Into the Sky,Shallan Davar,"1,077.00",0.27%
-Words of Radiance,52,52: Into the Sky,Kaladin,300.00,0.08%
-Words of Radiance,52,52: Into the Sky,Shallan Davar,771.00,0.19%
-Words of Radiance,52,52: Into the Sky,Kaladin,341.00,0.09%
-Words of Radiance,52,52: Into the Sky,Shallan Davar,694.00,0.17%
-Words of Radiance,52,52: Into the Sky,Kaladin,891.00,0.22%
-Words of Radiance,52,52: Into the Sky,Shallan Davar,386.00,0.10%
-Words of Radiance,52,52: Into the Sky,Kaladin,"1,585.00",0.40%
-Words of Radiance,53,53: Perfection,Adolin Kholin,"2,255.00",0.57%
-Words of Radiance,54,54: Veil’s Lesson,Shallan Davar,"4,412.00",1.11%
-Words of Radiance,55,55: The Rules of the Game,Kaladin,"6,165.00",1.55%
-Words of Radiance,56,56: Whitespine Uncaged,Kaladin,891.00,0.22%
-Words of Radiance,56,56: Whitespine Uncaged,Adolin Kholin,"1,074.00",0.27%
-Words of Radiance,56,56: Whitespine Uncaged,Kaladin,429.00,0.11%
-Words of Radiance,56,56: Whitespine Uncaged,Adolin Kholin,"1,244.00",0.31%
-Words of Radiance,56,56: Whitespine Uncaged,Dalinar Kholin,430.00,0.11%
-Words of Radiance,56,56: Whitespine Uncaged,Adolin Kholin,431.00,0.11%
-Words of Radiance,56,56: Whitespine Uncaged,Dalinar Kholin,444.00,0.11%
-Words of Radiance,57,57: To Kill the Wind,Shallan Davar,306.00,0.08%
-Words of Radiance,57,57: To Kill the Wind,Kaladin,"3,495.00",0.88%
-Words of Radiance,58,58: Never Again,Kaladin,"1,038.00",0.26%
-Words of Radiance,58,58: Never Again,Torol Sadeas,405.00,0.10%
-Words of Radiance,58,58: Never Again,Kaladin,187.00,0.05%
-Words of Radiance,58.1,I-9. Lift,Lift,"10,664.00",2.68%
-Words of Radiance,58.2,I-10. Szeth,Szeth-son-son-Vallano,773.00,0.19%
-Words of Radiance,58.3,I-11. New Rhythms,Eshonai,"4,799.00",1.21%
-Words of Radiance,59,59: Fleet,Kaladin,"2,804.00",0.70%
-Words of Radiance,60,60: Veil Walks,Shallan Davar,"3,143.00",0.79%
-Words of Radiance,61,61: Obedience,Shallan Davar (flashback),"1,861.00",0.47%
-Words of Radiance,62,62: The One Who Killed Promises,Kaladin,"2,153.00",0.54%
-Words of Radiance,63,63: A Burning World,Shallan Davar,"5,523.00",1.39%
-Words of Radiance,64,64: Treasures,Kaladin,557.00,0.14%
-Words of Radiance,64,64: Treasures,Shallan Davar,"1,120.00",0.28%
-Words of Radiance,65,65: The One Who Deserves It,Shallan Davar (flashback),"1,821.00",0.46%
-Words of Radiance,66,66: Stormblessings,Kaladin,"3,055.00",0.77%
-Words of Radiance,67,67: Spit and Bile,Dalinar Kholin,"5,944.00",1.49%
-Words of Radiance,68,68: Bridges,Kaladin,"7,178.00",1.80%
-Words of Radiance,69,69: Nothing,Kaladin,"2,034.00",0.51%
-Words of Radiance,69,69: Nothing,Shallan Davar,"1,946.00",0.49%
-Words of Radiance,70,70: From a Nightmare,Kaladin,"1,099.00",0.28%
-Words of Radiance,70,70: From a Nightmare,Shallan Davar,"3,661.00",0.92%
-Words of Radiance,71,71: Vigil,Teft,"1,333.00",0.33%
-Words of Radiance,71,71: Vigil,Kaladin,"4,629.00",1.16%
-Words of Radiance,72,72: Selfish Reasons,Kaladin,"2,009.00",0.50%
-Words of Radiance,72,72: Selfish Reasons,Shallan Davar,"2,070.00",0.52%
-Words of Radiance,73,73: A Thousand Scurrying Creatures,Shallan Davar (flashback),"2,860.00",0.72%
-Words of Radiance,74,74: Striding the Storm,Kaladin,"2,699.00",0.68%
-Words of Radiance,75,75: True Glory,Dalinar Kholin,"1,860.00",0.47%
-Words of Radiance,75,75: True Glory,Shallan Davar,"1,981.00",0.50%
-Words of Radiance,75.1,I-12. Lhan,Lhan,"2,549.00",0.64%
-Words of Radiance,75.1,I-13. A Part to Play,Eshonai,517.00,0.13%
-Words of Radiance,75.1,I-14. Taravangian,Taravangian,"7,122.00",1.79%
-Words of Radiance,76,76: The Hidden Blade,Kaladin,"1,144.00",0.29%
-Words of Radiance,76,76: The Hidden Blade,Dalinar Kholin,650.00,0.16%
-Words of Radiance,76,76: The Hidden Blade,Torol Sadeas,280.00,0.07%
-Words of Radiance,76,76: The Hidden Blade,Dalinar Kholin,986.00,0.25%
-Words of Radiance,76,76: The Hidden Blade,Kaladin,"1,697.00",0.43%
-Words of Radiance,76,76: The Hidden Blade,Torol Sadeas,193.00,0.05%
-Words of Radiance,77,77: Trust,Shallan Davar,"3,095.00",0.78%
-Words of Radiance,77,77: Trust,Kaladin,835.00,0.21%
-Words of Radiance,78,78: Contradictions,Shallan Davar,"3,325.00",0.83%
-Words of Radiance,79,79: Toward the Center,Dalinar Kholin,"1,470.00",0.37%
-Words of Radiance,80,80: To Fight the Rain,Shallan Davar,"1,866.00",0.47%
-Words of Radiance,80,80: To Fight the Rain,Kaladin,"1,708.00",0.43%
-Words of Radiance,81,81: The Last Day,Dalinar Kholin,"2,239.00",0.56%
-Words of Radiance,81,81: The Last Day,Kaladin,"1,717.00",0.43%
-Words of Radiance,81,81: The Last Day,Adolin Kholin,"1,142.00",0.29%
-Words of Radiance,81,81: The Last Day,Shallan Davar,"1,339.00",0.34%
-Words of Radiance,81,81: The Last Day,Dalinar Kholin,817.00,0.21%
-Words of Radiance,82,82: For Glory Lit,Kaladin,777.00,0.20%
-Words of Radiance,82,82: For Glory Lit,Adolin Kholin,857.00,0.22%
-Words of Radiance,82,82: For Glory Lit,Dalinar Kholin,"1,455.00",0.37%
-Words of Radiance,82,82: For Glory Lit,Kaladin,963.00,0.24%
-Words of Radiance,83,83: Time’s Illusion,Shallan Davar,986.00,0.25%
-Words of Radiance,83,83: Time’s Illusion,Adolin Kholin,999.00,0.25%
-Words of Radiance,83,83: Time’s Illusion,Dalinar Kholin,"1,098.00",0.28%
-Words of Radiance,83,83: Time’s Illusion,Kaladin,718.00,0.18%
-Words of Radiance,84,84: The One Who Saves,Shallan Davar,983.00,0.25%
-Words of Radiance,84,84: The One Who Saves,Adolin Kholin,"1,009.00",0.25%
-Words of Radiance,84,84: The One Who Saves,Kaladin,"1,120.00",0.28%
-Words of Radiance,85,85: Swallowed by the Sky,Dalinar Kholin,700.00,0.18%
-Words of Radiance,85,85: Swallowed by the Sky,Shallan Davar,236.00,0.06%
-Words of Radiance,85,85: Swallowed by the Sky,Dalinar Kholin,597.00,0.15%
-Words of Radiance,85,85: Swallowed by the Sky,Adolin Kholin,236.00,0.06%
-Words of Radiance,85,85: Swallowed by the Sky,Dalinar Kholin,403.00,0.10%
-Words of Radiance,85,85: Swallowed by the Sky,Adolin Kholin,"1,204.00",0.30%
-Words of Radiance,86,86: Patterns of Light,Kaladin,313.00,0.08%
-Words of Radiance,86,86: Patterns of Light,Shallan Davar,122.00,0.03%
-Words of Radiance,86,86: Patterns of Light,Dalinar Kholin,"1,037.00",0.26%
-Words of Radiance,86,86: Patterns of Light,Kaladin,682.00,0.17%
-Words of Radiance,86,86: Patterns of Light,Shallan Davar,449.00,0.11%
-Words of Radiance,86,86: Patterns of Light,Kaladin,"1,138.00",0.29%
-Words of Radiance,86,86: Patterns of Light,Shallan Davar,392.00,0.10%
-Words of Radiance,86,86: Patterns of Light,Kaladin,351.00,0.09%
-Words of Radiance,86,86: Patterns of Light,Shallan Davar,255.00,0.06%
-Words of Radiance,86,86: Patterns of Light,Kaladin,"1,163.00",0.29%
-Words of Radiance,87,87: The Riddens,Kaladin,"1,891.00",0.47%
-Words of Radiance,87,87: The Riddens,Shallan Davar,"1,221.00",0.31%
-Words of Radiance,87,87: The Riddens,Lopen,615.00,0.15%
-Words of Radiance,87,87: The Riddens,Moash,625.00,0.16%
-Words of Radiance,88,88: The Man Who Owned the Winds,Shallan Davar,"2,128.00",0.53%
-Words of Radiance,88,88: The Man Who Owned the Winds,Meridas Amaram,"1,141.00",0.29%
-Words of Radiance,88,88: The Man Who Owned the Winds,Szeth-son-son-Vallano,894.00,0.22%
-Words of Radiance,89,89: The Four,Dalinar Kholin,360.00,0.09%
-Words of Radiance,89,89: The Four,Adolin Kholin,"1,184.00",0.30%
-Words of Radiance,89,89: The Four,Dalinar Kholin,"2,511.00",0.63%
-Words of Radiance,90,Epilogue: Art and Expectation,Wit,"1,821.00",0.46%
-Oathbringer,0,Prologue: To Weep,Eshonai (flashback),"2,843.00",0.63%
-Oathbringer,1,1: Broken and Divided,Dalinar Kholin,"2,298.00",0.51%
-Oathbringer,2,2: One Problem Solved,Adolin Kholin,592.00,0.13%
-Oathbringer,2,2: One Problem Solved,Dalinar Kholin,"2,715.00",0.60%
-Oathbringer,3,3: Momentum,Dalinar Kholin (flashback),"4,042.00",0.89%
-Oathbringer,4,4: Oaths,Dalinar Kholin,"4,936.00",1.09%
-Oathbringer,5,5: Hearthstone,Kaladin,"2,278.00",0.50%
-Oathbringer,6,6: Four Lifetimes,Kaladin,"2,432.00",0.54%
-Oathbringer,7,7: A Watcher at the Rim,Kaladin,"4,660.00",1.03%
-Oathbringer,8,8: A Powerful Lie,Shallan Davar,"3,470.00",0.76%
-Oathbringer,9,9: The Threads of a Screw,Shallan Davar,"1,580.00",0.35%
-Oathbringer,10,10: Distractions,Kaladin,"2,931.00",0.64%
-Oathbringer,10,10: Distractions,Adolin Kholin,"1,548.00",0.34%
-Oathbringer,11,11: The Rift,Dalinar Kholin (flashback),"5,594.00",1.23%
-Oathbringer,12,12: Negotiations,Dalinar Kholin,"6,339.00",1.39%
-Oathbringer,13,13: Chaperone,Shallan Davar,"3,859.00",0.85%
-Oathbringer,14,14: Squires Can't Capture,Kaladin,961.00,0.21%
-Oathbringer,15,15: Brightness Radiant,Shallan Davar,"3,330.00",0.73%
-Oathbringer,16,16: Wrapped Three Times,Dalinar Kholin,"6,566.00",1.44%
-Oathbringer,17,17: Trapped in Shadows,Kaladin,"3,162.00",0.70%
-Oathbringer,18,18: Double Vision,Shallan Davar,"6,924.00",1.52%
-Oathbringer,19,19: The Subtle Art of Diplomacy,Dalinar Kholin (flashback),"3,813.00",0.84%
-Oathbringer,20,20: Cords to Bind,Kaladin,"1,271.00",0.28%
-Oathbringer,21,21: Set Up to Fall,Shallan Davar,"3,446.00",0.76%
-Oathbringer,22,22: The Darkness Within,Shallan Davar,"2,127.00",0.47%
-Oathbringer,23,23: Storming Strange,Kaladin,"1,578.00",0.35%
-Oathbringer,24,24: Men of Blood and Sorrow,Dalinar Kholin,"4,018.00",0.88%
-Oathbringer,25,25: The Girl Who Looked Up,Shallan Davar,"3,835.00",0.84%
-Oathbringer,26,26: Blackthorn Unleashed,Dalinar Kholin (flashback),"4,855.00",1.07%
-Oathbringer,27,27: Playing Pretend,Shallan Davar,"3,550.00",0.78%
-Oathbringer,28,28: Another Option,Dalinar Kholin,"4,162.00",0.92%
-Oathbringer,29,29: No Backing Down,Shallan Davar,"6,344.00",1.40%
-Oathbringer,30,30: Mother of Lies,Shallan Davar,990.00,0.22%
-Oathbringer,31,31: Demands of the Storm,Kaladin,"4,786.00",1.05%
-Oathbringer,32,32: Company,Shallan Davar,923.00,0.20%
-Oathbringer,32.1,I-1: Puuli,Puuli,819.00,0.18%
-Oathbringer,32.2,I-2: Ellista,Ellista,"1,959.00",0.43%
-Oathbringer,32.3,I-3: The Rhythm of the Lost,Venli,"1,804.00",0.40%
-Oathbringer,33,33: A Lecture,Shallan Davar,"1,957.00",0.43%
-Oathbringer,34,34: Resistance,Dalinar Kholin,"4,693.00",1.03%
-Oathbringer,35,35: First into the Sky,Sigzil,"3,987.00",0.88%
-Oathbringer,36,36: Hero,Dalinar Kholin (flashback),"1,643.00",0.36%
-Oathbringer,37,37: The Last Time We March,Rock,"7,782.00",1.71%
-Oathbringer,38,38: Broken People,Dalinar Kholin,"5,932.00",1.31%
-Oathbringer,39,39: Notes,Shallan Davar,"3,795.00",0.84%
-Oathbringer,40,"40: Questions, Peeks, and Inferences",Shallan Davar,"3,417.00",0.75%
-Oathbringer,41,41: On the Ground Looking Up,Teft,"1,908.00",0.42%
-Oathbringer,42,42: Consequences,Dalinar Kholin,"2,226.00",0.49%
-Oathbringer,43,43: Spearman,Moash,"2,290.00",0.50%
-Oathbringer,44,44: Bright Side,Shallan Davar,"4,406.00",0.97%
-Oathbringer,45,45: A Revelation,Moash,"2,443.00",0.54%
-Oathbringer,46,46: When the Dream Dies,Skar,"4,448.00",0.98%
-Oathbringer,47,47: So Much Is Lost,Jasnah Kholin,"1,820.00",0.40%
-Oathbringer,48,48: Rhythm of Work,Moash,"2,020.00",0.44%
-Oathbringer,49,49: Born unto Light,Dalinar Kholin (flashback),"4,021.00",0.88%
-Oathbringer,50,50: Shash Thirty-seven,Dalinar Kholin,"3,859.00",0.85%
-Oathbringer,51,51: Full Circle,Moash,"1,204.00",0.26%
-Oathbringer,51,51: Full Circle,Shallan Davar,"1,225.00",0.27%
-Oathbringer,52,52: After His Father,Dalinar Kholin (flashback),"2,551.00",0.56%
-Oathbringer,53,53: Such a Twisted Cut,Jasnah Kholin,"3,691.00",0.81%
-Oathbringer,54,54: An Ancient Singer's Name,Moash,"2,786.00",0.61%
-Oathbringer,55,55: Alone Together,Rlain,"2,872.00",0.63%
-Oathbringer,56,56: Always with You,Dalinar Kholin,"1,985.00",0.44%
-Oathbringer,57,57: Passion,Dalinar Kholin,"1,948.00",0.43%
-Oathbringer,57.1,I-4: Kaza,Kaza,"3,207.00",0.71%
-Oathbringer,57.2,I-5: Taravangian,Taravangian,"3,183.00",0.70%
-Oathbringer,57.3,I-6: This One Is Mine,Venli,"2,105.00",0.46%
-Oathbringer,58,58: Burdens,Dalinar Kholin,"2,247.00",0.49%
-Oathbringer,59,59: Bondsmith,Dalinar Kholin,"5,343.00",1.18%
-Oathbringer,60,60: Winds and Oaths,Kaladin,"2,460.00",0.54%
-Oathbringer,61,61: Nightmare Made Manifest,Kaladin,"4,492.00",0.99%
-Oathbringer,62,62: Research,Shallan Davar,"4,196.00",0.92%
-Oathbringer,63,63: Within the Mirror,Shallan Davar,"3,241.00",0.71%
-Oathbringer,64,64: Binder of Gods,Dalinar Kholin,"2,835.00",0.62%
-Oathbringer,65,65: Verdict,Dalinar Kholin,"4,881.00",1.07%
-Oathbringer,66,66: Strategist,Dalinar Kholin (flashback),"2,567.00",0.56%
-Oathbringer,67,67: Mishim,Shallan Davar,"4,458.00",0.98%
-Oathbringer,68,68: Aim for the Sun,Shallan Davar,"3,225.00",0.71%
-Oathbringer,69,"69: Free Meal, No Strings",Kaladin,"2,787.00",0.61%
-Oathbringer,70,70: Highmarshal Azure,Kaladin,"2,580.00",0.57%
-Oathbringer,71,71: A Sign of Humanity,Dalinar Kholin (flashback),"3,195.00",0.70%
-Oathbringer,72,72: Rockfall,Shallan Davar,"4,111.00",0.90%
-Oathbringer,73,73: Telling Which Stories,Kaladin,"3,899.00",0.86%
-Oathbringer,74,74: Swiftspren,Shallan Davar,"2,520.00",0.55%
-Oathbringer,75,75: Only Red,Dalinar Kholin (flashback),"2,622.00",0.58%
-Oathbringer,76,76: An Animal,Dalinar Kholin (flashback),"3,364.00",0.74%
-Oathbringer,77,77: Stormshelter,Kaladin,"2,044.00",0.45%
-Oathbringer,77,77: Stormshelter,Shallan Davar,"2,468.00",0.54%
-Oathbringer,78,78: The Revel,Shallan Davar,537.00,0.12%
-Oathbringer,78,78: The Revel,Kaladin,595.00,0.13%
-Oathbringer,78,78: The Revel,Shallan Davar,"1,317.00",0.29%
-Oathbringer,78,78: The Revel,Kaladin,612.00,0.13%
-Oathbringer,78,78: The Revel,Shallan Davar,622.00,0.14%
-Oathbringer,79,79: Echoes of Thunder,Kaladin,"2,061.00",0.45%
-Oathbringer,80,80: Oblivious,Shallan Davar,"1,372.00",0.30%
-Oathbringer,81,81: Ithi and Her Sister,Kaladin,975.00,0.21%
-Oathbringer,82,82: The Girl Who Stood Up,Shallan Davar,"3,359.00",0.74%
-Oathbringer,83,83: Crimson to Break,Adolin Kholin,"5,326.00",1.17%
-Oathbringer,84,84: The One You Can Save,Kaladin,840.00,0.18%
-Oathbringer,84,84: The One You Can Save,Shallan Davar,218.00,0.05%
-Oathbringer,84,84: The One You Can Save,Kaladin,"1,148.00",0.25%
-Oathbringer,84,84: The One You Can Save,Shallan Davar,601.00,0.13%
-Oathbringer,84,84: The One You Can Save,Kaladin,411.00,0.09%
-Oathbringer,84,84: The One You Can Save,Shallan Davar,554.00,0.12%
-Oathbringer,84,84: The One You Can Save,Kaladin,960.00,0.21%
-Oathbringer,85,85: Grieve Later,Adolin Kholin,601.00,0.13%
-Oathbringer,85,85: Grieve Later,Shallan Davar,192.00,0.04%
-Oathbringer,86,86: That Others May Stand,Dalinar Kholin,"1,384.00",0.30%
-Oathbringer,87,87: This Place,Adolin Kholin,509.00,0.11%
-Oathbringer,87.1,I-7: Envoy,Venli,"2,058.00",0.45%
-Oathbringer,87.2,I-8: Mem,Mem,"1,185.00",0.26%
-Oathbringer,97.3,I-9: True Labor Begins,Venli,314.00,0.07%
-Oathbringer,87.4,I-10: Sheler,Sheler,878.00,0.19%
-Oathbringer,87.5,I-11: Her Reward,Venli,"1,171.00",0.26%
-Oathbringer,88,88: Voices,Dalinar Kholin (flashback),"2,008.00",0.44%
-Oathbringer,89,89: Damnation,Adolin Kholin,"1,164.00",0.26%
-Oathbringer,89,89: Damnation,Shallan Davar,"1,503.00",0.33%
-Oathbringer,89,89: Damnation,Adolin Kholin,864.00,0.19%
-Oathbringer,90,90: Reborn,Szeth,"1,643.00",0.36%
-Oathbringer,91,91: Why He Froze,Kaladin,"1,798.00",0.40%
-Oathbringer,92,92: Water Warm as Blood,Szeth,"3,318.00",0.73%
-Oathbringer,93,93: Kata,Adolin Kholin,"1,923.00",0.42%
-Oathbringer,94,94: A Small Bottle,Dalinar Kholin (flashback),678.00,0.15%
-Oathbringer,95,95: Inescapable Void,Kaladin,"1,500.00",0.33%
-Oathbringer,96,96: Pieces of a Fabrial,Navani Kholin,"4,407.00",0.97%
-Oathbringer,97,97: Riino,Kaladin,"1,038.00",0.23%
-Oathbringer,97,97: Riino,Shallan Davar,674.00,0.15%
-Oathbringer,97,97: Riino,Kaladin,700.00,0.15%
-Oathbringer,97,97: Riino,Shallan Davar,183.00,0.04%
-Oathbringer,97,97: Riino,Kaladin,"1,427.00",0.31%
-Oathbringer,98,98: Loopholes,Szeth,"2,593.00",0.57%
-Oathbringer,99,99: Reachers,Kaladin,"3,567.00",0.78%
-Oathbringer,100,100: An Old Friend,Dalinar Kholin,"3,628.00",0.80%
-Oathbringer,101,101: Deadeye,Adolin Kholin,"2,515.00",0.55%
-Oathbringer,102,102: Celebrant,Kaladin,"1,341.00",0.30%
-Oathbringer,102,102: Celebrant,Shallan Davar,881.00,0.19%
-Oathbringer,102,102: Celebrant,Kaladin,347.00,0.08%
-Oathbringer,102,102: Celebrant,Shallan Davar,225.00,0.05%
-Oathbringer,102,102: Celebrant,Kaladin,404.00,0.09%
-Oathbringer,102,102: Celebrant,Shallan Davar,433.00,0.10%
-Oathbringer,102,102: Celebrant,Kaladin,728.00,0.16%
-Oathbringer,103,103: Hypocrite,Dalinar Kholin,"2,624.00",0.58%
-Oathbringer,104,104: Strength,Navani Kholin,"2,783.00",0.61%
-Oathbringer,105,"105: Spirit, Mind, and Body",Dalinar Kholin (flashback),"2,845.00",0.63%
-Oathbringer,106,106: Law Is Light,Szeth,"1,779.00",0.39%
-Oathbringer,107,107: The First Step,Dalinar Kholin,"4,829.00",1.06%
-Oathbringer,107,107: The First Step,Taravangian,"1,295.00",0.28%
-Oathbringer,108,108: Honor's Path,Shallan Davar,"3,622.00",0.80%
-Oathbringer,108,108: Honor's Path,Kaladin,"1,611.00",0.35%
-Oathbringer,108,108: Honor's Path,Adolin Kholin,463.00,0.10%
-Oathbringer,109,109: Neshua Kadal,Dalinar Kholin,"1,142.00",0.25%
-Oathbringer,109,109: Neshua Kadal,Venli,"2,445.00",0.54%
-Oathbringer,109,109: Neshua Kadal,Dalinar Kholin,394.00,0.09%
-Oathbringer,110,110: A Million Stars,Shallan Davar,"1,753.00",0.39%
-Oathbringer,111,111: Eila Stele,Dalinar Kholin,"4,197.00",0.92%
-Oathbringer,112,112: For the Living,Kaladin,"1,285.00",0.28%
-Oathbringer,113,113: The Thing Men Do Best,Dalinar Kholin,"1,524.00",0.34%
-Oathbringer,113.1,I-12: Rhythm of Withdrawal,Venli,767.00,0.17%
-Oathbringer,113.2,I-13: Rysn,Rysn,"4,141.00",0.91%
-Oathbringer,113.3,I-14: Teft,Teft,638.00,0.14%
-Oathbringer,114,114: The Cost,Dalinar Kholin (flashback),"3,476.00",0.76%
-Oathbringer,115,115: The Wrong Passion,Dalinar Kholin,510.00,0.11%
-Oathbringer,115,115: The Wrong Passion,Shallan Davar,490.00,0.11%
-Oathbringer,115,115: The Wrong Passion,Jasnah Kholin,352.00,0.08%
-Oathbringer,115,115: The Wrong Passion,Venli,"1,129.00",0.25%
-Oathbringer,115,115: The Wrong Passion,Teft,342.00,0.08%
-Oathbringer,115,115: The Wrong Passion,Navani Kholin,334.00,0.07%
-Oathbringer,115,115: The Wrong Passion,Venli,486.00,0.11%
-Oathbringer,115,115: The Wrong Passion,Kaladin,171.00,0.04%
-Oathbringer,115,115: The Wrong Passion,Venli,220.00,0.05%
-Oathbringer,116,116: Alone,Kaladin,335.00,0.07%
-Oathbringer,116,116: Alone,Dalinar Kholin,"1,067.00",0.23%
-Oathbringer,116,116: Alone,Jasnah Kholin,104.00,0.02%
-Oathbringer,116,116: Alone,Shallan Davar,337.00,0.07%
-Oathbringer,116,116: Alone,Venli,259.00,0.06%
-Oathbringer,116,116: Alone,Kaladin,602.00,0.13%
-Oathbringer,116,116: Alone,Yanagawn,882.00,0.19%
-Oathbringer,116,116: Alone,Shallan Davar,325.00,0.07%
-Oathbringer,116,116: Alone,Szeth,372.00,0.08%
-Oathbringer,116,116: Alone,Kaladin,556.00,0.12%
-Oathbringer,116,116: Alone,Navani Kholin,507.00,0.11%
-Oathbringer,117,117: Champion with Nine Shadows,Dalinar Kholin,728.00,0.16%
-Oathbringer,117,117: Champion with Nine Shadows,Adolin Kholin,713.00,0.16%
-Oathbringer,117,117: Champion with Nine Shadows,Shallan Davar,591.00,0.13%
-Oathbringer,117,117: Champion with Nine Shadows,Lift,584.00,0.13%
-Oathbringer,117,117: Champion with Nine Shadows,Szeth,287.00,0.06%
-Oathbringer,117,117: Champion with Nine Shadows,Kaladin,453.00,0.10%
-Oathbringer,117,117: Champion with Nine Shadows,Dalinar Kholin,271.00,0.06%
-Oathbringer,117,117: Champion with Nine Shadows,Lift,831.00,0.18%
-Oathbringer,117,117: Champion with Nine Shadows,Navani Kholin,192.00,0.04%
-Oathbringer,117,117: Champion with Nine Shadows,Shalash,344.00,0.08%
-Oathbringer,117,117: Champion with Nine Shadows,Renarin Kholin,307.00,0.07%
-Oathbringer,117,117: Champion with Nine Shadows,Dalinar Kholin,234.00,0.05%
-Oathbringer,118,118: The Weight of It All,Dalinar Kholin,366.00,0.08%
-Oathbringer,118,118: The Weight of It All,Szeth,516.00,0.11%
-Oathbringer,118,118: The Weight of It All,Jasnah Kholin,50.00,0.01%
-Oathbringer,118,118: The Weight of It All,Shalash,83.00,0.02%
-Oathbringer,118,118: The Weight of It All,Kaladin,118.00,0.03%
-Oathbringer,118,118: The Weight of It All,Lift,267.00,0.06%
-Oathbringer,118,118: The Weight of It All,Navani Kholin,469.00,0.10%
-Oathbringer,118,118: The Weight of It All,Dalinar Kholin,258.00,0.06%
-Oathbringer,118,118: The Weight of It All,Teft,23.00,0.01%
-Oathbringer,118,118: The Weight of It All,Kaladin,39.00,0.01%
-Oathbringer,118,118: The Weight of It All,Dalinar Kholin,318.00,0.07%
-Oathbringer,118,118: The Weight of It All,Szeth,139.00,0.03%
-Oathbringer,118,118: The Weight of It All,Renarin Kholin,80.00,0.02%
-Oathbringer,118,118: The Weight of It All,Venli,349.00,0.08%
-Oathbringer,118,118: The Weight of It All,Kaladin,113.00,0.02%
-Oathbringer,118,118: The Weight of It All,Jasnah Kholin,370.00,0.08%
-Oathbringer,118,118: The Weight of It All,Dalinar Kholin,93.00,0.02%
-Oathbringer,119,119: Unity,Dalinar Kholin,254.00,0.06%
-Oathbringer,119,119: Unity,Renarin Kholin,210.00,0.05%
-Oathbringer,119,119: Unity,Dalinar Kholin,44.00,0.01%
-Oathbringer,119,119: Unity,Kaladin,59.00,0.01%
-Oathbringer,119,119: Unity,Dalinar Kholin,192.00,0.04%
-Oathbringer,119,119: Unity,Kaladin,103.00,0.02%
-Oathbringer,119,119: Unity,Shalash,287.00,0.06%
-Oathbringer,119,119: Unity,Teft,105.00,0.02%
-Oathbringer,119,119: Unity,Renarin Kholin,326.00,0.07%
-Oathbringer,119,119: Unity,Navani Kholin,102.00,0.02%
-Oathbringer,119,119: Unity,Dalinar Kholin,253.00,0.06%
-Oathbringer,119,119: Unity,Lift,240.00,0.05%
-Oathbringer,119,119: Unity,Dalinar Kholin,883.00,0.19%
-Oathbringer,120,120: The Spear That Would Not Break,Kaladin,221.00,0.05%
-Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,509.00,0.11%
-Oathbringer,120,120: The Spear That Would Not Break,Szeth,265.00,0.06%
-Oathbringer,120,120: The Spear That Would Not Break,Kaladin,317.00,0.07%
-Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,96.00,0.02%
-Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,342.00,0.08%
-Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,482.00,0.11%
-Oathbringer,120,120: The Spear That Would Not Break,Jasnah Kholin,293.00,0.06%
-Oathbringer,120,120: The Spear That Would Not Break,Szeth,696.00,0.15%
-Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,825.00,0.18%
-Oathbringer,120,120: The Spear That Would Not Break,Kaladin,659.00,0.15%
-Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,140.00,0.03%
-Oathbringer,120,120: The Spear That Would Not Break,Jasnah Kholin,599.00,0.13%
-Oathbringer,120,120: The Spear That Would Not Break,Szeth,491.00,0.11%
-Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,278.00,0.06%
-Oathbringer,120,120: The Spear That Would Not Break,Kaladin,855.00,0.19%
-Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,"1,099.00",0.24%
-Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,183.00,0.04%
-Oathbringer,120,120: The Spear That Would Not Break,Venli,624.00,0.14%
-Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,"1,709.00",0.38%
-Oathbringer,120,120: The Spear That Would Not Break,Szeth,711.00,0.16%
-Oathbringer,120,120: The Spear That Would Not Break,Kaladin,"1,629.00",0.36%
-Oathbringer,120,120: The Spear That Would Not Break,Renarin Kholin,325.00,0.07%
-Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,816.00,0.18%
-Oathbringer,120,120: The Spear That Would Not Break,Renarin Kholin,"1,122.00",0.25%
-Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,278.00,0.06%
-Oathbringer,120,120: The Spear That Would Not Break,Renarin Kholin,528.00,0.12%
-Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,353.00,0.08%
-Oathbringer,120,120: The Spear That Would Not Break,Kaladin,948.00,0.21%
-Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,294.00,0.06%
-Oathbringer,120,120: The Spear That Would Not Break,Kaladin,152.00,0.03%
-Oathbringer,121,121: Ideals,Moash,805.00,0.18%
-Oathbringer,121,121: Ideals,Navani Kholin,441.00,0.10%
-Oathbringer,121,121: Ideals,Shallan Davar,"1,057.00",0.23%
-Oathbringer,121,121: Ideals,Venli,490.00,0.11%
-Oathbringer,121,121: Ideals,Szeth,468.00,0.10%
-Oathbringer,121,121: Ideals,Shallan Davar,"1,275.00",0.28%
-Oathbringer,121,121: Ideals,Kaladin,"1,158.00",0.25%
-Oathbringer,121,121: Ideals,Dalinar Kholin,460.00,0.10%
-Oathbringer,121,121: Ideals,Moash,339.00,0.07%
-Oathbringer,121,121: Ideals,Lopen,"1,598.00",0.35%
-Oathbringer,121,121: Ideals,Shalash,479.00,0.11%
-Oathbringer,122,122: A Debt Repaid,Kaladin,431.00,0.09%
-Oathbringer,122,122: A Debt Repaid,Taravangian,"2,083.00",0.46%
-Oathbringer,122,122: A Debt Repaid,Shallan Davar,"1,705.00",0.38%
-Oathbringer,122,122: A Debt Repaid,Palona,398.00,0.09%
-Oathbringer,122,122: A Debt Repaid,Moash,481.00,0.11%
-Oathbringer,122,122: A Debt Repaid,Shallan Davar,"1,106.00",0.24%
-Oathbringer,122,122: A Debt Repaid,Dalinar Kholin,"1,046.00",0.23%
-Rhythm of War,0,Prologue: To Pretend,Navani Kholin,"5,812.00",1.27%
-Rhythm of War,1,Chapter 1: Calluses,Lirin,"3,918.00",0.86%
-Rhythm of War,2,Chapter 2: Severed Cords,Kaladin,"2,572.00",0.56%
-Rhythm of War,2,Chapter 2: Severed Cords,Shallan Davar,"1,438.00",0.32%
-Rhythm of War,2,Chapter 2: Severed Cords,Kaladin,"2,199.00",0.48%
-Rhythm of War,3,Chapter 3: The Fourth Bridge,Navani Kholin,"3,698.00",0.81%
-Rhythm of War,4,Chapter 4: Architects of the Future,Shallan Davar,"1,960.00",0.43%
-Rhythm of War,5,Chapter 5: Broken Spears,Kaladin,"2,689.00",0.59%
-Rhythm of War,5,Chapter 5: Broken Spears,Shallan Davar,945.00,0.21%
-Rhythm of War,5,Chapter 5: Broken Spears,Kaladin,"1,467.00",0.32%
-Rhythm of War,6,Chapter 6: A Loose Thread,Shallan Davar,"1,102.00",0.24%
-Rhythm of War,6,Chapter 6: A Loose Thread,Kaladin,582.00,0.13%
-Rhythm of War,6,Chapter 6: A Loose Thread,Navani Kholin,"1,645.00",0.36%
-Rhythm of War,6,Chapter 6: A Loose Thread,Kaladin,"1,469.00",0.32%
-Rhythm of War,7,Chapter 7: The Rarest Vintage,Shallan Davar,"2,837.00",0.62%
-Rhythm of War,7,Chapter 7: The Rarest Vintage,Kaladin,"1,384.00",0.30%
-Rhythm of War,7,Chapter 7: The Rarest Vintage,Shallan Davar,691.00,0.15%
-Rhythm of War,8,Chapter 8: Surrender,Kaladin,"1,048.00",0.23%
-Rhythm of War,8,Chapter 8: Surrender,Shallan Davar,"1,593.00",0.35%
-Rhythm of War,8,Chapter 8: Surrender,Kaladin,"1,179.00",0.26%
-Rhythm of War,9,Chapter 9: Contradictions,Kaladin,"1,580.00",0.35%
-Rhythm of War,9,Chapter 9: Contradictions,Navani Kholin,"2,317.00",0.51%
-Rhythm of War,9,Chapter 9: Contradictions,Shallan Davar,"2,217.00",0.49%
-Rhythm of War,10,Chapter 10: A Single Casualty,Kaladin,"3,483.00",0.76%
-Rhythm of War,11,Chapter 11: Passion and Courage,Venli,"4,551.00",1%
-Rhythm of War,12,Chapter 12: A Way to Help,Kaladin,"6,486.00",1.42%
-Rhythm of War,13,Chapter 13: Another Hunt,Shallan Davar,"6,316.00",1.39%
-Rhythm of War,14,Chapter 14: Voice,Venli,"6,331.00",1.39%
-Rhythm of War,15,Chapter 15: The Light and the Music,Kaladin,"6,532.00",1.43%
-Rhythm of War,16,Chapter 16: An Unknown Song,Navani Kholin,"5,037.00",1.10%
-Rhythm of War,17,Chapter 17: A Proposal,Navani Kholin,"5,104.00",1.12%
-Rhythm of War,18,Chapter 18: Surgeon,Kaladin,"3,249.00",0.71%
-Rhythm of War,19,Chapter 19: Garnets,Navani Kholin,"7,516.00",1.65%
-Rhythm of War,19.1,Interlude I-1: Sylphrena,Syl,"2,829.00",0.62%
-Rhythm of War,19.2,Interlude I-2: Sja-anat,Sja-anat,"1,363.00",0.30%
-Rhythm of War,19.3,Interlude I-3: Into the Fire,Taravangian,"1,526.00",0.33%
-Rhythm of War,20,Chapter 20: The Unseen Court,Shallan Davar,"3,319.00",0.73%
-Rhythm of War,21,Chapter 21: The Seething Knot,Adolin Kholin,"6,222.00",1.36%
-Rhythm of War,22,Chapter 22: No Use Talking,Adolin Kholin,"5,121.00",1.12%
-Rhythm of War,22,Chapter 22: No Use Talking,Shallan Davar,178.00,0.04%
-Rhythm of War,23,Chapter 23: Binding Wounds,Kaladin,"2,660.00",0.58%
-Rhythm of War,24,Chapter 24: Full of Awe,Shallan Davar,"2,867.00",0.63%
-Rhythm of War,25,Chapter 25: Devotary of Mercy,Kaladin,"3,996.00",0.88%
-Rhythm of War,26,Chapter 26: A Little Espionage,Shallan Davar,"7,343.00",1.61%
-Rhythm of War,27,Chapter 27: Banners,Navani Kholin,"3,813.00",0.84%
-Rhythm of War,28,Chapter 28: Heresies,Navani Kholin,"1,448.00",0.32%
-Rhythm of War,29,Chapter 29: A Cage Without Bars,Adolin Kholin,"1,951.00",0.43%
-Rhythm of War,29,Chapter 29: A Cage Without Bars,Shallan Davar,"1,273.00",0.28%
-Rhythm of War,29,Chapter 29: A Cage Without Bars,Adolin Kholin,"1,770.00",0.39%
-Rhythm of War,30,Chapter 30: The Betrayal,Shallan Davar,"1,145.00",0.25%
-Rhythm of War,30,Chapter 30: The Betrayal,Adolin Kholin,931.00,0.20%
-Rhythm of War,30,Chapter 30: The Betrayal,Shallan Davar,675.00,0.15%
-Rhythm of War,30,Chapter 30: The Betrayal,Adolin Kholin,"1,475.00",0.32%
-Rhythm of War,31,Chapter 31: Daughter of Traitors,Venli,"2,163.00",0.47%
-Rhythm of War,32,Chapter 32: Of Three Minds,Adolin Kholin,580.00,0.13%
-Rhythm of War,32,Chapter 32: Of Three Minds,Shallan Davar,"2,188.00",0.48%
-Rhythm of War,33,Chapter 33: Understanding,Kaladin,695.00,0.15%
-Rhythm of War,34,Chapter 34: A Flame Never Extinguished,Shallan Davar,"4,886.00",1.07%
-Rhythm of War,35,Chapter 35: The Strength of a Soldier,Adolin Kholin,954.00,0.21%
-Rhythm of War,35,Chapter 35: The Strength of a Soldier,Shallan Davar,658.00,0.14%
-Rhythm of War,35,Chapter 35: The Strength of a Soldier,Adolin Kholin,"3,310.00",0.73%
-Rhythm of War,36,Chapter 36: The Price of Honor,Shallan Davar,"2,548.00",0.56%
-Rhythm of War,36,Chapter 36: The Price of Honor,Adolin Kholin,"1,537.00",0.34%
-Rhythm of War,37,Chapter 37: Silence From the Dead,Navani Kholin,"2,110.00",0.46%
-Rhythm of War,37,Chapter 37: Silence From the Dead,Venli,965.00,0.21%
-Rhythm of War,37,Chapter 37: Silence From the Dead,Kaladin,"1,029.00",0.23%
-Rhythm of War,37,Chapter 37: Silence From the Dead,Venli,850.00,0.19%
-Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Navani Kholin,585.00,0.13%
-Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Venli,733.00,0.16%
-Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Kaladin,"1,690.00",0.37%
-Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Venli,271.00,0.06%
-Rhythm of War,39,Chapter 39: Invasion,Kaladin,591.00,0.13%
-Rhythm of War,39,Chapter 39: Invasion,Navani Kholin,695.00,0.15%
-Rhythm of War,39,Chapter 39: Invasion,Kaladin,"1,641.00",0.36%
-Rhythm of War,39,Chapter 39: Invasion,Navani Kholin,948.00,0.21%
-Rhythm of War,39,Chapter 39: Invasion,Kaladin,"1,313.00",0.29%
-Rhythm of War,40,Chapter 40: In for All,Navani Kholin,"2,813.00",0.62%
-Rhythm of War,41,Chapter 41: The Most Dangerous,Venli,"1,693.00",0.37%
-Rhythm of War,41,Chapter 41: The Most Dangerous,Navani Kholin,"1,141.00",0.25%
-Rhythm of War,41,Chapter 41: The Most Dangerous,Kaladin,"1,028.00",0.23%
-Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,"1,287.00",0.28%
-Rhythm of War,42,Chapter 42: Armor and Teeth,Kaladin,"1,105.00",0.24%
-Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,739.00,0.16%
-Rhythm of War,42,Chapter 42: Armor and Teeth,Venli,804.00,0.18%
-Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,351.00,0.08%
-Rhythm of War,42,Chapter 42: Armor and Teeth,Venli,697.00,0.15%
-Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,"1,644.00",0.36%
-Rhythm of War,43,Chapter 43: Men and Monsters,Kaladin,"4,730.00",1.04%
-Rhythm of War,43.1,Interlude I-4: Vyre,Moash,"2,171.00",0.48%
-Rhythm of War,43.2,Interlude I-5: Lift,Lift,"3,811.00",0.84%
-Rhythm of War,43.3,Interlude I-6: A Boon and a Curse,Taravangian,"3,144.00",0.69%
-Rhythm of War,44,Chapter 44: Tinder Waiting for the Spark,Kaladin,"2,917.00",0.64%
-Rhythm of War,45,"Chapter 45: A Bold Heart, a Keen and Crafty Mind",Eshonai (flashback),956.00,0.21%
-Rhythm of War,45,"Chapter 45: A Bold Heart, a Keen and Crafty Mind",Venli (flashback),"1,982.00",0.43%
-Rhythm of War,46,Chapter 46: The Weight of the Tower,Navani Kholin,"1,764.00",0.39%
-Rhythm of War,46,Chapter 46: The Weight of the Tower,Kaladin,"1,974.00",0.43%
-Rhythm of War,47,Chapter 47: A Cage Forged of Spirits,Dalinar Kholin,"2,865.00",0.63%
-Rhythm of War,48,"Chapter 48: Scent of Death, Scent of Life",Eshonai (flashback),"2,336.00",0.51%
-Rhythm of War,49,Chapter 49: Soul of Discovery,Navani Kholin,"2,231.00",0.49%
-Rhythm of War,49,Chapter 49: Soul of Discovery,Kaladin,"2,785.00",0.61%
-Rhythm of War,49,Chapter 49: Soul of Discovery,Navani Kholin,938.00,0.21%
-Rhythm of War,50,Chapter 50: Queen,Dalinar Kholin,"6,186.00",1.36%
-Rhythm of War,51,Chapter 51: To Sing Hopeless Songs,Venli,"1,818.00",0.40%
-Rhythm of War,52,Chapter 52: A Path Toward Saving,Venli (flashback),"2,232.00",0.49%
-Rhythm of War,53,Chapter 53: Compassion,Venli,"2,329.00",0.51%
-Rhythm of War,54,Chapter 54: The Future Become Dust,Dalinar Kholin,"1,709.00",0.37%
-Rhythm of War,54,Chapter 54: The Future Become Dust,Renarin Kholin,"1,456.00",0.32%
-Rhythm of War,55,Chapter 55: Kinship with the Open Sky,Kaladin,"3,406.00",0.75%
-Rhythm of War,56,Chapter 56: Nodes,Venli,"2,704.00",0.59%
-Rhythm of War,57,Chapter 57: Child of Odium,Eshonai (flashback),"1,166.00",0.26%
-Rhythm of War,57,Chapter 57: Child of Odium,Venli (flashback),"1,490.00",0.33%
-Rhythm of War,57,Chapter 57: Child of Odium,Eshonai (flashback),783.00,0.17%
-Rhythm of War,58,Chapter 58: Spanreeds,Kaladin,"2,601.00",0.57%
-Rhythm of War,59,Chapter 59: The Lattice of a Growing Crystal,Kaladin,"5,397.00",1.18%
-Rhythm of War,60,Chapter 60: Essai,Venli,"3,351.00",0.74%
-Rhythm of War,61,Chapter 61: Oil and Water,Navani Kholin,"3,908.00",0.86%
-Rhythm of War,62,Chapter 62: Keeper of Forms,Eshonai (flashback),"1,817.00",0.40%
-Rhythm of War,63,Chapter 63: Practice,Kaladin,"3,747.00",0.82%
-Rhythm of War,64,Chapter 64: Personal Reminder,Jasnah Kholin,"4,506.00",0.99%
-Rhythm of War,65,Chapter 65: Hypothesis,Navani Kholin,"2,228.00",0.49%
-Rhythm of War,66,Chapter 66: Bearer of Agonies,Dalinar Kholin,"3,547.00",0.78%
-Rhythm of War,67,Chapter 67: Song of Stones,Venli,"2,213.00",0.49%
-Rhythm of War,68,Chapter 68: One Family,Eshonai (flashback),"3,380.00",0.74%
-Rhythm of War,69,Chapter 69: Pure Tones of Roshar,Navani Kholin,"4,010.00",0.88%
-Rhythm of War,70,Chapter 70: Well,Kaladin,722.00,0.16%
-Rhythm of War,70,Chapter 70: Well,Navani Kholin,241.00,0.05%
-Rhythm of War,70,Chapter 70: Well,Kaladin,"5,216.00",1.14%
-Rhythm of War,71,Chapter 71: Rider of Storms,Dalinar Kholin,"3,444.00",0.76%
-Rhythm of War,72,Chapter 72: Outmatched,Navani Kholin,586.00,0.13%
-Rhythm of War,72.1,Interlude I-7: Szeth,Szeth,"1,743.00",0.38%
-Rhythm of War,72.2,Interlude I-8: Chiri-Chiri,Chiri-Chiri,"1,129.00",0.25%
-Rhythm of War,72.3,Interlude I-9: The Sword,Taravangian,"1,587.00",0.35%
-Rhythm of War,73,Chapter 73: Which Master to Follow,Venli (flashback),"2,449.00",0.54%
-Rhythm of War,74,Chapter 74: A Symbol,Venli,"2,338.00",0.51%
-Rhythm of War,75,Chapter 75: The Middle Step,Adolin Kholin,"1,325.00",0.29%
-Rhythm of War,75,Chapter 75: The Middle Step,Shallan Davar,"3,266.00",0.72%
-Rhythm of War,76,Chapter 76: Harmony,Navani Kholin,"3,687.00",0.81%
-Rhythm of War,77,Chapter 77: The Proper Legality,Venli (flashback),"4,196.00",0.92%
-Rhythm of War,78,Chapter 78: The High Judge,Shallan Davar,"1,278.00",0.28%
-Rhythm of War,78,Chapter 78: The High Judge,Adolin Kholin,"2,355.00",0.52%
-Rhythm of War,78,Chapter 78: The High Judge,Shallan Davar,285.00,0.06%
-Rhythm of War,79,Chapter 79: Open Wound,Rlain,"2,832.00",0.62%
-Rhythm of War,80,Chapter 80: The Dog and the Dragon,Kaladin,"5,620.00",1.23%
-Rhythm of War,81,Chapter 81: Trapped,Eshonai (flashback),"1,430.00",0.31%
-Rhythm of War,81,Chapter 81: Trapped,Venli (flashback),391.00,0.09%
-Rhythm of War,82,Chapter 82: Knife,Shallan Davar,"1,903.00",0.42%
-Rhythm of War,82,Chapter 82: Knife,Adolin Kholin,879.00,0.19%
-Rhythm of War,83,Chapter 83: The Games of Men and Singers,Venli,"3,727.00",0.82%
-Rhythm of War,84,Chapter 84: Scholar,Navani Kholin,"2,451.00",0.54%
-Rhythm of War,85,Chapter 85: Dabbid,Dabbid,"2,258.00",0.50%
-Rhythm of War,86,Chapter 86: The Song of Mornings,Venli (flashback),"2,992.00",0.66%
-Rhythm of War,87,Chapter 87: Trial by Witness,Adolin Kholin,"4,151.00",0.91%
-Rhythm of War,87,Chapter 87: Trial by Witness,Shallan Davar,"1,203.00",0.26%
-Rhythm of War,88,Chapter 88: Falling Star,Eshonai (flashback),"1,302.00",0.29%
-Rhythm of War,89,Chapter 89: Voice of Lights,Navani Kholin,"2,837.00",0.62%
-Rhythm of War,90,Chapter 90: One Chance,Adolin Kholin,"2,402.00",0.53%
-Rhythm of War,90,Chapter 90: One Chance,Shallan Davar,989.00,0.22%
-Rhythm of War,91,Chapter 91: Worth Saving,Teft,"2,667.00",0.59%
-Rhythm of War,92,Chapter 92: A Gift,Venli,"1,453.00",0.32%
-Rhythm of War,93,Chapter 93: Strong Enough,Shallan Davar,"3,627.00",0.80%
-Rhythm of War,94,Chapter 94: Sacrifice,Adolin Kholin,"3,426.00",0.75%
-Rhythm of War,95,Chapter 95: What She Truly Was,Venli (flashback),"1,896.00",0.42%
-Rhythm of War,96,Chapter 96: A Thousand Lies,Venli,"1,245.00",0.27%
-Rhythm of War,97,Chapter 97: Freedom,Navani Kholin,"4,960.00",1.09%
-Rhythm of War,97.1,Interlude I-10: Hesina,Hesina,"1,902.00",0.42%
-Rhythm of War,97.2,Interlude I-11: Adin,Adin,"1,371.00",0.30%
-Rhythm of War,97.3,Interlude I-12: Vulnerable,Taravangian,"1,319.00",0.29%
-Rhythm of War,98,Chapter 98: An Unwholesome Shade,Dalinar Kholin,"1,854.00",0.41%
-Rhythm of War,99,Chapter 99: Not Bound,Jasnah Kholin,"2,374.00",0.52%
-Rhythm of War,100,Chapter 100: Watchers at the Rim,Kaladin,"1,054.00",0.23%
-Rhythm of War,101,Chapter 101: Undertext,Dalinar Kholin,"3,709.00",0.81%
-Rhythm of War,102,Chapter 102: Highstorm Coming,Venli,"1,151.00",0.25%
-Rhythm of War,102,Chapter 102: Highstorm Coming,Navani Kholin,"1,589.00",0.35%
-Rhythm of War,102,Chapter 102: Highstorm Coming,Kaladin,867.00,0.19%
-Rhythm of War,103,Chapter 103: The Legend You Live,Teft,"1,117.00",0.25%
-Rhythm of War,103,Chapter 103: The Legend You Live,Kaladin,510.00,0.11%
-Rhythm of War,103,Chapter 103: The Legend You Live,Teft,294.00,0.06%
-Rhythm of War,104,Chapter 104: Full of Hope,Rlain,459.00,0.10%
-Rhythm of War,104,Chapter 104: Full of Hope,Kaladin,563.00,0.12%
-Rhythm of War,104,Chapter 104: Full of Hope,Venli,467.00,0.10%
-Rhythm of War,104,Chapter 104: Full of Hope,Teft,979.00,0.21%
-Rhythm of War,105,Chapter 105: Children of Passions,Kaladin,598.00,0.13%
-Rhythm of War,105,Chapter 105: Children of Passions,Moash,639.00,0.14%
-Rhythm of War,105,Chapter 105: Children of Passions,Navani Kholin,700.00,0.15%
-Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Kaladin,258.00,0.06%
-Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Navani Kholin,649.00,0.14%
-Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Venli,972.00,0.21%
-Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Kaladin,371.00,0.08%
-Rhythm of War,107,Chapter 107: Uniting,Navani Kholin,386.00,0.08%
-Rhythm of War,107,Chapter 107: Uniting,Dalinar Kholin,126.00,0.03%
-Rhythm of War,107,Chapter 107: Uniting,Kaladin,110.00,0.02%
-Rhythm of War,107,Chapter 107: Uniting,Dalinar Kholin,169.00,0.04%
-Rhythm of War,107,Chapter 107: Uniting,Venli,378.00,0.08%
-Rhythm of War,107,Chapter 107: Uniting,Kaladin,274.00,0.06%
-Rhythm of War,107,Chapter 107: Uniting,Dalinar Kholin,214.00,0.05%
-Rhythm of War,108,Chapter 108: Moments,Kaladin,"1,387.00",0.30%
-Rhythm of War,109,Chapter 109: Emulsifier,Venli,351.00,0.08%
-Rhythm of War,109,Chapter 109: Emulsifier,Navani Kholin,293.00,0.06%
-Rhythm of War,109,Chapter 109: Emulsifier,Rlain,"1,438.00",0.32%
-Rhythm of War,110,Chapter 110: Reborn,Kaladin,237.00,0.05%
-Rhythm of War,110,Chapter 110: Reborn,Navani Kholin,674.00,0.15%
-Rhythm of War,110,Chapter 110: Reborn,Lirin,467.00,0.10%
-Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,"1,359.00",0.30%
-Rhythm of War,111,Chapter 111: Unchained,Rlain,503.00,0.11%
-Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,"2,051.00",0.45%
-Rhythm of War,111,Chapter 111: Unchained,Navani Kholin,523.00,0.11%
-Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,820.00,0.18%
-Rhythm of War,111,Chapter 111: Unchained,Adin,899.00,0.20%
-Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,800.00,0.18%
-Rhythm of War,111,Chapter 111: Unchained,Moash,490.00,0.11%
-Rhythm of War,112,Chapter 112: Terms,Dalinar Kholin,"3,536.00",0.78%
-Rhythm of War,113,Chapter 113: Emotion,Navani Kholin,879.00,0.19%
-Rhythm of War,113,Chapter 113: Emotion,Taravangian,"1,679.00",0.37%
-Rhythm of War,114,Chapter 114: Broken Gods,Rlain,650.00,0.14%
-Rhythm of War,114,Chapter 114: Broken Gods,Taravangian,403.00,0.09%
-Rhythm of War,114,Chapter 114: Broken Gods,Kaladin,567.00,0.12%
-Rhythm of War,114,Chapter 114: Broken Gods,Taravangian,573.00,0.13%
-Rhythm of War,115,Chapter 115: Testament,Shallan Davar,"1,442.00",0.32%
-Rhythm of War,115,Chapter 115: Testament,Venli,"1,089.00",0.24%
-Rhythm of War,116,Chapter 116: Mercy,Kaladin,969.00,0.21%
-Rhythm of War,116,Chapter 116: Mercy,Lezian,578.00,0.13%
-Rhythm of War,116,Chapter 116: Mercy,Kaladin,357.00,0.08%
-Rhythm of War,116,Chapter 116: Mercy,Dalinar Kholin,892.00,0.20%
-Rhythm of War,117,Chapter 117: One Final Gift,Eshonai (flashback),"1,732.00",0.38%
-Rhythm of War,118,Epilogue: Dirty Tricks,Wit,"1,972.00",0.43%
+book,chapter_num,chapter_title,pov,word_count,word_percentage,
+The Way of Kings,0,Prelude to the Stormlight Archive,Kalak,"1,290.00",0.34%,"1,775,247.00"
+The Way of Kings,0.5,Prologue: To Kill,Szeth-son-son-Vallano,"6,128.00",1.59%,35.50494
+The Way of Kings,1,Ch1: Stormblessed,Cenn,"4,510.00",1.17%,
+The Way of Kings,2,Ch2: Honor is Dead,Kaladin,"5,023.00",1.31%,
+The Way of Kings,3,Ch3: City of Bells,Shallan Davar,"5,279.00",1.37%,
+The Way of Kings,4,Ch4: The Shattered Plains,Kaladin,"4,100.00",1.07%,
+The Way of Kings,5,Ch5: Heretic,Shallan Davar,"3,994.00",1.04%,
+The Way of Kings,6,Ch6: Bridge Four,Kaladin,"7,184.00",1.87%,
+The Way of Kings,7,Ch7: Anything Reasonable,Shallan Davar,"6,146.00",1.60%,
+The Way of Kings,8,Ch8: Nearer the Flame,Shallan Davar,"6,887.00",1.79%,
+The Way of Kings,9,Ch9: Damnation,Kaladin,"2,316.00",0.60%,
+The Way of Kings,10,Ch10: Stories of Surgeons,Kaladin (flashback),"2,290.00",0.60%,
+The Way of Kings,11,Ch11: Droplets,Kaladin,"3,160.00",0.82%,
+The Way of Kings,11.1,Interlude: Ishikk,Ishikk,"2,058.00",0.54%,
+The Way of Kings,11.2,Interlude: Nan Balat,Balat Davar,"1,344.00",0.35%,
+The Way of Kings,11.3,Interlude: The Glory of Ignorance,Szeth-son-son-Vallano,"2,017.00",0.52%,
+The Way of Kings,12,Ch12: Unity,Adolin Kholin,"1,402.00",0.36%,
+The Way of Kings,12,Ch12: Unity,Dalinar Kholin,"1,692.00",0.44%,
+The Way of Kings,12,Ch12: Unity,Adolin Kholin,"4,535.00",1.18%,
+The Way of Kings,13,Ch13: Ten Heartbeats,Dalinar Kholin,"2,626.00",0.68%,
+The Way of Kings,13,Ch13: Ten Heartbeats,Adolin Kholin,726.00,0.19%,
+The Way of Kings,14,Ch14: Payday,Kaladin,"3,872.00",1.01%,
+The Way of Kings,15,Ch15: The Decoy,Adolin Kholin,635.00,0.17%,
+The Way of Kings,15,Ch15: The Decoy,Dalinar Kholin,"3,493.00",0.91%,
+The Way of Kings,15,Ch15: The Decoy,Adolin Kholin,"4,134.00",1.08%,
+The Way of Kings,15,Ch15: The Decoy,Dalinar Kholin,889.00,0.23%,
+The Way of Kings,16,Ch16: Cocoons,Kaladin (flashback),"5,600.00",1.46%,
+The Way of Kings,17,"Ch17: A Bloody, Red Sunset",Kaladin,"6,974.00",1.81%,
+The Way of Kings,18,Ch18: Highprince of War,Adolin Kholin,"1,107.00",0.29%,
+The Way of Kings,18,Ch18: Highprince of War,Dalinar Kholin,"2,193.00",0.57%,
+The Way of Kings,18,Ch18: Highprince of War,Adolin Kholin,"1,481.00",0.39%,
+The Way of Kings,18,Ch18: Highprince of War,Dalinar Kholin,"3,638.00",0.95%,
+The Way of Kings,19,Ch19: Starfalls,Dalinar Kholin,"5,936.00",1.54%,
+The Way of Kings,20,Ch20: Scarlet,Kaladin (flashback),748.00,0.19%,
+The Way of Kings,21,Ch21: Why Men Lie,Kaladin,"4,364.00",1.14%,
+The Way of Kings,22,"Ch22: Eyes, Hands or Spheres",Dalinar Kholin,"5,671.00",1.48%,
+The Way of Kings,23,Ch23: Many Uses,Kaladin,"5,422.00",1.41%,
+The Way of Kings,24,Ch24: The Gallery of Maps,Dalinar Kholin,"2,137.00",0.56%,
+The Way of Kings,24,Ch24: The Gallery of Maps,Adolin Kholin,"1,336.00",0.35%,
+The Way of Kings,25,Ch25: The Butcher,Kaladin (flashback),"3,285.00",0.85%,
+The Way of Kings,26,Ch26: Stillness,Dalinar Kholin,"6,587.00",1.71%,
+The Way of Kings,27,Ch27: Chasm Duty,Kaladin,"9,105.00",2.37%,
+The Way of Kings,28,Ch28: Decision,Adolin Kholin,"3,157.00",0.82%,
+The Way of Kings,28,Ch28: Decision,Dalinar Kholin,"6,403.00",1.67%,
+The Way of Kings,28.1,Interlude: Rysn,Rysn,"2,768.00",0.72%,
+The Way of Kings,28.2,Interlude: Axies the Collector,Axies the Collector,"2,100.00",0.55%,
+The Way of Kings,28.3,Interlude: A Work of Art,Szeth-son-son-Vallano,"3,471.00",0.90%,
+The Way of Kings,29,Ch29: Errorgance,Shallan Davar,"6,562.00",1.71%,
+The Way of Kings,30,Ch30: Darkness Unseen,Kaladin,328.00,0.09%,
+The Way of Kings,30,Ch30: Darkness Unseen,Gaz,"1,046.00",0.27%,
+The Way of Kings,30,Ch30: Darkness Unseen,Kaladin,"1,862.00",0.48%,
+The Way of Kings,30,Ch30: Darkness Unseen,Gaz,401.00,0.10%,
+The Way of Kings,31,Ch31: Beneath the Skin,Kaladin (flashback),"1,994.00",0.52%,
+The Way of Kings,32,Ch32: Side Carry,Kaladin,"4,813.00",1.25%,
+The Way of Kings,33,Ch33: Cymatics,Shallan Davar,"5,708.00",1.49%,
+The Way of Kings,34,Ch34: Stormwall,Kaladin,"1,981.00",0.52%,
+The Way of Kings,35,Ch35: A Light by Which to See,Kaladin,"1,197.00",0.31%,
+The Way of Kings,35,Ch35: A Light by Which to See,Teft,697.00,0.18%,
+The Way of Kings,36,Ch36: The Lesson,Shallan Davar,"5,441.00",1.42%,
+The Way of Kings,37,Ch37: Sides,Kaladin (flashback),"5,810.00",1.51%,
+The Way of Kings,38,Ch38: Envisager,Kaladin,721.00,0.19%,
+The Way of Kings,38,Ch38: Envisager,Teft,992.00,0.26%,
+The Way of Kings,39,Ch39: Burned into Her,Shallan Davar,"3,770.00",0.98%,
+The Way of Kings,40,Ch40: Eyes of Red and Blue,Kaladin,"5,077.00",1.32%,
+The Way of Kings,41,Ch41: Of Alds and Milp,Kaladin (flashback),"2,070.00",0.54%,
+The Way of Kings,42,Ch42: Beggars and Barmaids,Shallan Davar,"5,419.00",1.41%,
+The Way of Kings,43,Ch43: The Wretch,Kaladin,"4,544.00",1.18%,
+The Way of Kings,44,Ch44: The Weeping,Kaladin (flashback),"4,720.00",1.23%,
+The Way of Kings,45,Ch45: Shadesmar,Shallan Davar,"7,799.00",2.03%,
+The Way of Kings,46,Ch46: Child of Tanavast,Kaladin,"7,135.00",1.86%,
+The Way of Kings,47,Ch47: Stormblessings,Kaladin (flashback),"4,879.00",1.27%,
+The Way of Kings,48,Ch48: Strawberry,Shallan Davar,"3,422.00",0.89%,
+The Way of Kings,49,Ch49: To Care,Kaladin,"3,513.00",0.91%,
+The Way of Kings,50,Ch50: Backbreaker Powder,Shallan Davar,"1,237.00",0.32%,
+The Way of Kings,51,Ch51: Sas Nahn,Kaladin (flashback),"1,882.00",1.71%,
+The Way of Kings,51.1,Interlude: Baxil,Baxil,"1,267.00",0.33%,
+The Way of Kings,51.2,Interlude: Geranid,Geranid,"1,446.00",0.38%,
+The Way of Kings,51.3,Interlude: Death Wears White,Szeth-son-son-Vallano,"2,884.00",0.75%,
+The Way of Kings,52,Ch52: A Highway to the Sun,Adolin Kholin,740.00,0.19%,
+The Way of Kings,52,Ch52: A Highway to the Sun,Dalinar Kholin,"6,235.00",1.62%,
+The Way of Kings,53,Ch53: Dunny,Kaladin,"2,658.00",0.69%,
+The Way of Kings,54,Ch54: Gibletish,Dalinar Kholin,"5,548.00",1.44%,
+The Way of Kings,55,Ch55: An Emerald Broam,Kaladin,"5,801.00",1.51%,
+The Way of Kings,56,Ch56: That Storming Book,Dalinar Kholin,"4,740.00",1.23%,
+The Way of Kings,57,Ch57: Wandersail,Kaladin,"8,868.00",2.31%,
+The Way of Kings,58,Ch58: The Journey,Adolin Kholin,"2,242.00",0.58%,
+The Way of Kings,58,Ch58: The Journey,Dalinar Kholin,"5,121.00",1.33%,
+The Way of Kings,59,Ch59: An Honor,Kaladin,"6,553.00",1.71%,
+The Way of Kings,60,Ch60: That Which We Cannot Have,Dalinar Kholin,"4,129.00",1.07%,
+The Way of Kings,61,Ch61: Right for Wrong,Dalinar Kholin,"3,123.00",0.81%,
+The Way of Kings,62,Ch62: Three Glyphs,Kaladin,"5,108.00",1.33%,
+The Way of Kings,63,Ch63: Fear,Kaladin,"2,111.00",0.55%,
+The Way of Kings,64,Ch64: A Man of Extremes,Dalinar Kholin,"1,728.00",0.45%,
+The Way of Kings,64,Ch64: A Man of Extremes,Kaladin,535.00,0.14%,
+The Way of Kings,64,Ch64: A Man of Extremes,Adolin Kholin,870.00,0.23%,
+The Way of Kings,65,Ch65: The Tower,Dalinar Kholin,"1,072.00",0.28%,
+The Way of Kings,65,Ch65: The Tower,Kaladin,796.00,0.21%,
+The Way of Kings,65,Ch65: The Tower,Dalinar Kholin,"2,076.00",0.54%,
+The Way of Kings,66,Ch66: Codes,Kaladin,890.00,0.23%,
+The Way of Kings,66,Ch66: Codes,Dalinar Kholin,"1,574.00",0.41%,
+The Way of Kings,67,Ch67: Words,Kaladin,"2,126.00",0.55%,
+The Way of Kings,67,Ch67: Words,Dalinar Kholin,780.00,0.20%,
+The Way of Kings,67,Ch67: Words,Kaladin,"1,612.00",0.42%,
+The Way of Kings,67,Ch67: Words,Kaladin (flashback),"1,944.00",0.51%,
+The Way of Kings,67,Ch67: Words,Kaladin,669.00,0.17%,
+The Way of Kings,67,Ch67: Words,Teft,146.00,0.04%,
+The Way of Kings,68,Ch68: Eshonai,Adolin Kholin,269.00,0.07%,
+The Way of Kings,68,Ch68: Eshonai,Teft,417.00,0.11%,
+The Way of Kings,68,Ch68: Eshonai,Dalinar Kholin,"1,375.00",0.36%,
+The Way of Kings,68,Ch68: Eshonai,Kaladin,"2,501.00",0.65%,
+The Way of Kings,68,Ch68: Eshonai,Dalinar Kholin,377.00,0.10%,
+The Way of Kings,68,Ch68: Eshonai,Kaladin,320.00,0.08%,
+The Way of Kings,68,Ch68: Eshonai,Dalinar Kholin,"1,430.00",0.37%,
+The Way of Kings,69,Ch69: Justice,Navani Kholin,"1,669.00",0.43%,
+The Way of Kings,69,Ch69: Justice,Dalinar Kholin,"2,552.00",0.66%,
+The Way of Kings,69,Ch69: Justice,Kaladin,"1,072.00",0.28%,
+The Way of Kings,69,Ch69: Justice,Dalinar Kholin,"2,328.00",0.61%,
+The Way of Kings,70,Ch70: Sea of Glass,Shallan Davar,"2,397.00",0.62%,
+The Way of Kings,71,Ch71: Recorded in Blood,Szeth-son-son-Vallano,"2,561.00",0.67%,
+The Way of Kings,72,Ch72: Veristitalian,Shallan Davar,807.00,0.21%,
+The Way of Kings,73,Ch73: Trust,Kaladin,"3,400.00",0.88%,
+The Way of Kings,74,Ch74: Ghostblood,Shallan Davar,942.00,0.25%,
+The Way of Kings,75,Ch75: In the Top Room,Dalinar Kholin,"1,948.00",0.51%,
+The Way of Kings,76,Epilogue: Of Most Worth,Wit,"1,595.00",0.42%,
+Words of Radiance,0,Prologue: To Question,Jasnah Kholin,"5,283.00",1.33%,
+Words of Radiance,1,1: Santhid,Shallan Davar,"7,930.00",1.98%,
+Words of Radiance,2,2: Bridge Four,Kaladin,"5,471.00",1.37%,
+Words of Radiance,3,3: Pattern,Shallan Davar,"2,849.00",0.72%,
+Words of Radiance,4,4: Taker of Secrets,Dalinar Kholin,"4,285.00",1.08%,
+Words of Radiance,5,5: Ideals,Kaladin,"1,846.00",0.46%,
+Words of Radiance,5,5: Ideals,Torol Sadeas,771.00,0.19%,
+Words of Radiance,5,5: Ideals,Kaladin,"5,883.00",1.48%,
+Words of Radiance,6,6: Terrible Destruction,Shallan Davar,"4,424.00",1.11%,
+Words of Radiance,7,7: Open Flame,Shallan Davar,"2,217.00",0.56%,
+Words of Radiance,8,8: Knives in the Back • Soldiers on the Field,Dalinar Kholin,"2,618.00",0.66%,
+Words of Radiance,9,9: Walking the Grave,Kaladin,"3,008.00",0.76%,
+Words of Radiance,10,10: Red Carpet Once White,Shallan Davar (flashback),322.00,0.08%,
+Words of Radiance,11,11: An Illusion of Perception,Shallan Davar,"4,062.00",1.02%,
+Words of Radiance,12,12: Hero,Kaladin,"4,531.00",1.14%,
+Words of Radiance,12.1,I-1. Narak,Eshonai,"3,540.00",0.89%,
+Words of Radiance,12.2,I-2. Ym,Ym,"2,986.00",0.75%,
+Words of Radiance,12.3,I-3. Rysn,Rysn,"7,602.00",1.91%,
+Words of Radiance,12.4,I-4. Last Legion,Eshonai,"4,209.00",1.06%,
+Words of Radiance,13,13: The Day’s Masterpiece,Shallan Davar,"2,731.00",0.69%,
+Words of Radiance,14,14: Ironstance,Adolin Kholin,"2,922.00",0.73%,
+Words of Radiance,15,15: A Hand with the Tower,Shallan Davar,"2,256.00",0.57%,
+Words of Radiance,16,16: Swordmaster,Kaladin,"4,464.00",1.12%,
+Words of Radiance,17,17: A Pattern,Shallan Davar,"4,848.00",1.22%,
+Words of Radiance,18,18: Bruises,Kaladin,"3,877.00",0.97%,
+Words of Radiance,19,19: Safe Things,Shallan Davar (flashback),"1,447.00",0.36%,
+Words of Radiance,20,20: The Coldness of Clarity,Shallan Davar,"2,862.00",0.72%,
+Words of Radiance,21,21: Ashes,Shallan Davar,"2,371.00",0.60%,
+Words of Radiance,22,22: Lights in the Storm,Kaladin,"4,476.00",1.12%,
+Words of Radiance,23,23: Assassin,Kaladin,"1,889.00",0.47%,
+Words of Radiance,24,24: Tyn,Shallan Davar,"4,344.00",1.09%,
+Words of Radiance,25,25: Monsters,Kaladin,"4,356.00",1.09%,
+Words of Radiance,26,26: The Feather,Adolin Kholin,"3,790.00",0.95%,
+Words of Radiance,27,27: Fabrications to Distract,Shallan Davar (flashback),867.00,0.22%,
+Words of Radiance,28,28: Boots,Shallan Davar,"2,831.00",0.71%,
+Words of Radiance,29,29: Rule of Blood,Torol Sadeas,"3,191.00",0.80%,
+Words of Radiance,30,30: Nature Blushing,Shallan Davar,"2,592.00",0.65%,
+Words of Radiance,31,31: The Stillness Before,Kaladin,880.00,0.22%,
+Words of Radiance,31,31: The Stillness Before,Shallan Davar,"1,392.00",0.35%,
+Words of Radiance,32,32: The One Who Hates,Kaladin,758.00,0.19%,
+Words of Radiance,32,32: The One Who Hates,Shallan Davar,84.00,0.02%,
+Words of Radiance,32,32: The One Who Hates,Kaladin,"2,487.00",0.62%,
+Words of Radiance,33,33: Burdens,Kaladin,"1,856.00",0.47%,
+Words of Radiance,33,33: Burdens,Adolin Kholin,252.00,0.06%,
+Words of Radiance,33,33: Burdens,Kaladin,824.00,0.21%,
+Words of Radiance,34,34: Blossoms and Cake,Shallan Davar,"2,772.00",0.70%,
+Words of Radiance,34.1,I-5. The Rider of Storms,Eshonai,"1,381.00",0.35%,
+Words of Radiance,34.2,I-6. Zahel,Zahel,434.00,0.11%,
+Words of Radiance,34.3,I-7. Taln,Talenel,915.00,0.23%,
+Words of Radiance,34.4,I-8. A Form of Power,Eshonai,607.00,0.15%,
+Words of Radiance,35,35: The Multiplied Strain of Simultaneous Infusion,Adolin Kholin,"2,120.00",0.53%,
+Words of Radiance,35,35: The Multiplied Strain of Simultaneous Infusion,Navani Kholin,"2,522.00",0.63%,
+Words of Radiance,36,36: A New Woman,Shallan Davar,"4,614.00",1.16%,
+Words of Radiance,37,37: A Matter of Perspective,Adolin Kholin,"2,624.00",0.66%,
+Words of Radiance,38,38: The Silent Storm,Shallan Davar,"5,431.00",1.36%,
+Words of Radiance,39,39: Heterochromatic,Shallan Davar (flashback),"3,032.00",0.76%,
+Words of Radiance,40,40: Palona,Shallan Davar,"2,141.00",0.54%,
+Words of Radiance,41,41: Scars,Kaladin,"5,543.00",1.39%,
+Words of Radiance,42,42: Mere Vapors,Shallan Davar,"2,455.00",0.62%,
+Words of Radiance,43,43: The Ghostbloods,Shallan Davar,"5,401.00",1.36%,
+Words of Radiance,44,44: One Form of Justice,Kaladin,"5,531.00",1.39%,
+Words of Radiance,45,45: Middlefest,Shallan Davar (flashback),"6,710.00",1.68%,
+Words of Radiance,46,46: Patriots,Kaladin,"6,669.00",1.67%,
+Words of Radiance,47,47: Feminine Wiles,Shallan Davar,"3,612.00",0.91%,
+Words of Radiance,48,48: No More Weakness,Shallan Davar (flashback),"3,356.00",0.84%,
+Words of Radiance,49,49: Watching the World Transform,Shallan Davar,"6,311.00",1.58%,
+Words of Radiance,50,50: Uncut Gems,Adolin Kholin,"2,800.00",0.70%,
+Words of Radiance,51,51: Heirs,Adolin Kholin,"2,752.00",0.69%,
+Words of Radiance,52,52: Into the Sky,Kaladin,252.00,0.06%,
+Words of Radiance,52,52: Into the Sky,Shallan Davar,"1,124.00",0.28%,
+Words of Radiance,52,52: Into the Sky,Kaladin,493.00,0.12%,
+Words of Radiance,52,52: Into the Sky,Shallan Davar,"1,077.00",0.27%,
+Words of Radiance,52,52: Into the Sky,Kaladin,300.00,0.08%,
+Words of Radiance,52,52: Into the Sky,Shallan Davar,771.00,0.19%,
+Words of Radiance,52,52: Into the Sky,Kaladin,341.00,0.09%,
+Words of Radiance,52,52: Into the Sky,Shallan Davar,694.00,0.17%,
+Words of Radiance,52,52: Into the Sky,Kaladin,891.00,0.22%,
+Words of Radiance,52,52: Into the Sky,Shallan Davar,386.00,0.10%,
+Words of Radiance,52,52: Into the Sky,Kaladin,"1,585.00",0.40%,
+Words of Radiance,53,53: Perfection,Adolin Kholin,"2,255.00",0.57%,
+Words of Radiance,54,54: Veil’s Lesson,Shallan Davar,"4,412.00",1.11%,
+Words of Radiance,55,55: The Rules of the Game,Kaladin,"6,165.00",1.55%,
+Words of Radiance,56,56: Whitespine Uncaged,Kaladin,891.00,0.22%,
+Words of Radiance,56,56: Whitespine Uncaged,Adolin Kholin,"1,074.00",0.27%,
+Words of Radiance,56,56: Whitespine Uncaged,Kaladin,429.00,0.11%,
+Words of Radiance,56,56: Whitespine Uncaged,Adolin Kholin,"1,244.00",0.31%,
+Words of Radiance,56,56: Whitespine Uncaged,Dalinar Kholin,430.00,0.11%,
+Words of Radiance,56,56: Whitespine Uncaged,Adolin Kholin,431.00,0.11%,
+Words of Radiance,56,56: Whitespine Uncaged,Dalinar Kholin,444.00,0.11%,
+Words of Radiance,57,57: To Kill the Wind,Shallan Davar,306.00,0.08%,
+Words of Radiance,57,57: To Kill the Wind,Kaladin,"3,495.00",0.88%,
+Words of Radiance,58,58: Never Again,Kaladin,"1,038.00",0.26%,
+Words of Radiance,58,58: Never Again,Torol Sadeas,405.00,0.10%,
+Words of Radiance,58,58: Never Again,Kaladin,187.00,0.05%,
+Words of Radiance,58.1,I-9. Lift,Lift,"10,664.00",2.68%,
+Words of Radiance,58.2,I-10. Szeth,Szeth-son-son-Vallano,773.00,0.19%,
+Words of Radiance,58.3,I-11. New Rhythms,Eshonai,"4,799.00",1.21%,
+Words of Radiance,59,59: Fleet,Kaladin,"2,804.00",0.70%,
+Words of Radiance,60,60: Veil Walks,Shallan Davar,"3,143.00",0.79%,
+Words of Radiance,61,61: Obedience,Shallan Davar (flashback),"1,861.00",0.47%,
+Words of Radiance,62,62: The One Who Killed Promises,Kaladin,"2,153.00",0.54%,
+Words of Radiance,63,63: A Burning World,Shallan Davar,"5,523.00",1.39%,
+Words of Radiance,64,64: Treasures,Kaladin,557.00,0.14%,
+Words of Radiance,64,64: Treasures,Shallan Davar,"1,120.00",0.28%,
+Words of Radiance,65,65: The One Who Deserves It,Shallan Davar (flashback),"1,821.00",0.46%,
+Words of Radiance,66,66: Stormblessings,Kaladin,"3,055.00",0.77%,
+Words of Radiance,67,67: Spit and Bile,Dalinar Kholin,"5,944.00",1.49%,
+Words of Radiance,68,68: Bridges,Kaladin,"7,178.00",1.80%,
+Words of Radiance,69,69: Nothing,Kaladin,"2,034.00",0.51%,
+Words of Radiance,69,69: Nothing,Shallan Davar,"1,946.00",0.49%,
+Words of Radiance,70,70: From a Nightmare,Kaladin,"1,099.00",0.28%,
+Words of Radiance,70,70: From a Nightmare,Shallan Davar,"3,661.00",0.92%,
+Words of Radiance,71,71: Vigil,Teft,"1,333.00",0.33%,
+Words of Radiance,71,71: Vigil,Kaladin,"4,629.00",1.16%,
+Words of Radiance,72,72: Selfish Reasons,Kaladin,"2,009.00",0.50%,
+Words of Radiance,72,72: Selfish Reasons,Shallan Davar,"2,070.00",0.52%,
+Words of Radiance,73,73: A Thousand Scurrying Creatures,Shallan Davar (flashback),"2,860.00",0.72%,
+Words of Radiance,74,74: Striding the Storm,Kaladin,"2,699.00",0.68%,
+Words of Radiance,75,75: True Glory,Dalinar Kholin,"1,860.00",0.47%,
+Words of Radiance,75,75: True Glory,Shallan Davar,"1,981.00",0.50%,
+Words of Radiance,75.1,I-12. Lhan,Lhan,"2,549.00",0.64%,
+Words of Radiance,75.1,I-13. A Part to Play,Eshonai,517.00,0.13%,
+Words of Radiance,75.1,I-14. Taravangian,Taravangian,"7,122.00",1.79%,
+Words of Radiance,76,76: The Hidden Blade,Kaladin,"1,144.00",0.29%,
+Words of Radiance,76,76: The Hidden Blade,Dalinar Kholin,650.00,0.16%,
+Words of Radiance,76,76: The Hidden Blade,Torol Sadeas,280.00,0.07%,
+Words of Radiance,76,76: The Hidden Blade,Dalinar Kholin,986.00,0.25%,
+Words of Radiance,76,76: The Hidden Blade,Kaladin,"1,697.00",0.43%,
+Words of Radiance,76,76: The Hidden Blade,Torol Sadeas,193.00,0.05%,
+Words of Radiance,77,77: Trust,Shallan Davar,"3,095.00",0.78%,
+Words of Radiance,77,77: Trust,Kaladin,835.00,0.21%,
+Words of Radiance,78,78: Contradictions,Shallan Davar,"3,325.00",0.83%,
+Words of Radiance,79,79: Toward the Center,Dalinar Kholin,"1,470.00",0.37%,
+Words of Radiance,80,80: To Fight the Rain,Shallan Davar,"1,866.00",0.47%,
+Words of Radiance,80,80: To Fight the Rain,Kaladin,"1,708.00",0.43%,
+Words of Radiance,81,81: The Last Day,Dalinar Kholin,"2,239.00",0.56%,
+Words of Radiance,81,81: The Last Day,Kaladin,"1,717.00",0.43%,
+Words of Radiance,81,81: The Last Day,Adolin Kholin,"1,142.00",0.29%,
+Words of Radiance,81,81: The Last Day,Shallan Davar,"1,339.00",0.34%,
+Words of Radiance,81,81: The Last Day,Dalinar Kholin,817.00,0.21%,
+Words of Radiance,82,82: For Glory Lit,Kaladin,777.00,0.20%,
+Words of Radiance,82,82: For Glory Lit,Adolin Kholin,857.00,0.22%,
+Words of Radiance,82,82: For Glory Lit,Dalinar Kholin,"1,455.00",0.37%,
+Words of Radiance,82,82: For Glory Lit,Kaladin,963.00,0.24%,
+Words of Radiance,83,83: Time’s Illusion,Shallan Davar,986.00,0.25%,
+Words of Radiance,83,83: Time’s Illusion,Adolin Kholin,999.00,0.25%,
+Words of Radiance,83,83: Time’s Illusion,Dalinar Kholin,"1,098.00",0.28%,
+Words of Radiance,83,83: Time’s Illusion,Kaladin,718.00,0.18%,
+Words of Radiance,84,84: The One Who Saves,Shallan Davar,983.00,0.25%,
+Words of Radiance,84,84: The One Who Saves,Adolin Kholin,"1,009.00",0.25%,
+Words of Radiance,84,84: The One Who Saves,Kaladin,"1,120.00",0.28%,
+Words of Radiance,85,85: Swallowed by the Sky,Dalinar Kholin,700.00,0.18%,
+Words of Radiance,85,85: Swallowed by the Sky,Shallan Davar,236.00,0.06%,
+Words of Radiance,85,85: Swallowed by the Sky,Dalinar Kholin,597.00,0.15%,
+Words of Radiance,85,85: Swallowed by the Sky,Adolin Kholin,236.00,0.06%,
+Words of Radiance,85,85: Swallowed by the Sky,Dalinar Kholin,403.00,0.10%,
+Words of Radiance,85,85: Swallowed by the Sky,Adolin Kholin,"1,204.00",0.30%,
+Words of Radiance,86,86: Patterns of Light,Kaladin,313.00,0.08%,
+Words of Radiance,86,86: Patterns of Light,Shallan Davar,122.00,0.03%,
+Words of Radiance,86,86: Patterns of Light,Dalinar Kholin,"1,037.00",0.26%,
+Words of Radiance,86,86: Patterns of Light,Kaladin,682.00,0.17%,
+Words of Radiance,86,86: Patterns of Light,Shallan Davar,449.00,0.11%,
+Words of Radiance,86,86: Patterns of Light,Kaladin,"1,138.00",0.29%,
+Words of Radiance,86,86: Patterns of Light,Shallan Davar,392.00,0.10%,
+Words of Radiance,86,86: Patterns of Light,Kaladin,351.00,0.09%,
+Words of Radiance,86,86: Patterns of Light,Shallan Davar,255.00,0.06%,
+Words of Radiance,86,86: Patterns of Light,Kaladin,"1,163.00",0.29%,
+Words of Radiance,87,87: The Riddens,Kaladin,"1,891.00",0.47%,
+Words of Radiance,87,87: The Riddens,Shallan Davar,"1,221.00",0.31%,
+Words of Radiance,87,87: The Riddens,Lopen,615.00,0.15%,
+Words of Radiance,87,87: The Riddens,Moash,625.00,0.16%,
+Words of Radiance,88,88: The Man Who Owned the Winds,Shallan Davar,"2,128.00",0.53%,
+Words of Radiance,88,88: The Man Who Owned the Winds,Meridas Amaram,"1,141.00",0.29%,
+Words of Radiance,88,88: The Man Who Owned the Winds,Szeth-son-son-Vallano,894.00,0.22%,
+Words of Radiance,89,89: The Four,Dalinar Kholin,360.00,0.09%,
+Words of Radiance,89,89: The Four,Adolin Kholin,"1,184.00",0.30%,
+Words of Radiance,89,89: The Four,Dalinar Kholin,"2,511.00",0.63%,
+Words of Radiance,90,Epilogue: Art and Expectation,Wit,"1,821.00",0.46%,
+Oathbringer,0,Prologue: To Weep,Eshonai (flashback),"2,843.00",0.63%,
+Oathbringer,1,1: Broken and Divided,Dalinar Kholin,"2,298.00",0.51%,
+Oathbringer,2,2: One Problem Solved,Adolin Kholin,592.00,0.13%,
+Oathbringer,2,2: One Problem Solved,Dalinar Kholin,"2,715.00",0.60%,
+Oathbringer,3,3: Momentum,Dalinar Kholin (flashback),"4,042.00",0.89%,
+Oathbringer,4,4: Oaths,Dalinar Kholin,"4,936.00",1.09%,
+Oathbringer,5,5: Hearthstone,Kaladin,"2,278.00",0.50%,
+Oathbringer,6,6: Four Lifetimes,Kaladin,"2,432.00",0.54%,
+Oathbringer,7,7: A Watcher at the Rim,Kaladin,"4,660.00",1.03%,
+Oathbringer,8,8: A Powerful Lie,Shallan Davar,"3,470.00",0.76%,
+Oathbringer,9,9: The Threads of a Screw,Shallan Davar,"1,580.00",0.35%,
+Oathbringer,10,10: Distractions,Kaladin,"2,931.00",0.64%,
+Oathbringer,10,10: Distractions,Adolin Kholin,"1,548.00",0.34%,
+Oathbringer,11,11: The Rift,Dalinar Kholin (flashback),"5,594.00",1.23%,
+Oathbringer,12,12: Negotiations,Dalinar Kholin,"6,339.00",1.39%,
+Oathbringer,13,13: Chaperone,Shallan Davar,"3,859.00",0.85%,
+Oathbringer,14,14: Squires Can't Capture,Kaladin,961.00,0.21%,
+Oathbringer,15,15: Brightness Radiant,Shallan Davar,"3,330.00",0.73%,
+Oathbringer,16,16: Wrapped Three Times,Dalinar Kholin,"6,566.00",1.44%,
+Oathbringer,17,17: Trapped in Shadows,Kaladin,"3,162.00",0.70%,
+Oathbringer,18,18: Double Vision,Shallan Davar,"6,924.00",1.52%,
+Oathbringer,19,19: The Subtle Art of Diplomacy,Dalinar Kholin (flashback),"3,813.00",0.84%,
+Oathbringer,20,20: Cords to Bind,Kaladin,"1,271.00",0.28%,
+Oathbringer,21,21: Set Up to Fall,Shallan Davar,"3,446.00",0.76%,
+Oathbringer,22,22: The Darkness Within,Shallan Davar,"2,127.00",0.47%,
+Oathbringer,23,23: Storming Strange,Kaladin,"1,578.00",0.35%,
+Oathbringer,24,24: Men of Blood and Sorrow,Dalinar Kholin,"4,018.00",0.88%,
+Oathbringer,25,25: The Girl Who Looked Up,Shallan Davar,"3,835.00",0.84%,
+Oathbringer,26,26: Blackthorn Unleashed,Dalinar Kholin (flashback),"4,855.00",1.07%,
+Oathbringer,27,27: Playing Pretend,Shallan Davar,"3,550.00",0.78%,
+Oathbringer,28,28: Another Option,Dalinar Kholin,"4,162.00",0.92%,
+Oathbringer,29,29: No Backing Down,Shallan Davar,"6,344.00",1.40%,
+Oathbringer,30,30: Mother of Lies,Shallan Davar,990.00,0.22%,
+Oathbringer,31,31: Demands of the Storm,Kaladin,"4,786.00",1.05%,
+Oathbringer,32,32: Company,Shallan Davar,923.00,0.20%,
+Oathbringer,32.1,I-1: Puuli,Puuli,819.00,0.18%,
+Oathbringer,32.2,I-2: Ellista,Ellista,"1,959.00",0.43%,
+Oathbringer,32.3,I-3: The Rhythm of the Lost,Venli,"1,804.00",0.40%,
+Oathbringer,33,33: A Lecture,Shallan Davar,"1,957.00",0.43%,
+Oathbringer,34,34: Resistance,Dalinar Kholin,"4,693.00",1.03%,
+Oathbringer,35,35: First into the Sky,Sigzil,"3,987.00",0.88%,
+Oathbringer,36,36: Hero,Dalinar Kholin (flashback),"1,643.00",0.36%,
+Oathbringer,37,37: The Last Time We March,Rock,"7,782.00",1.71%,
+Oathbringer,38,38: Broken People,Dalinar Kholin,"5,932.00",1.31%,
+Oathbringer,39,39: Notes,Shallan Davar,"3,795.00",0.84%,
+Oathbringer,40,"40: Questions, Peeks, and Inferences",Shallan Davar,"3,417.00",0.75%,
+Oathbringer,41,41: On the Ground Looking Up,Teft,"1,908.00",0.42%,
+Oathbringer,42,42: Consequences,Dalinar Kholin,"2,226.00",0.49%,
+Oathbringer,43,43: Spearman,Moash,"2,290.00",0.50%,
+Oathbringer,44,44: Bright Side,Shallan Davar,"4,406.00",0.97%,
+Oathbringer,45,45: A Revelation,Moash,"2,443.00",0.54%,
+Oathbringer,46,46: When the Dream Dies,Skar,"4,448.00",0.98%,
+Oathbringer,47,47: So Much Is Lost,Jasnah Kholin,"1,820.00",0.40%,
+Oathbringer,48,48: Rhythm of Work,Moash,"2,020.00",0.44%,
+Oathbringer,49,49: Born unto Light,Dalinar Kholin (flashback),"4,021.00",0.88%,
+Oathbringer,50,50: Shash Thirty-seven,Dalinar Kholin,"3,859.00",0.85%,
+Oathbringer,51,51: Full Circle,Moash,"1,204.00",0.26%,
+Oathbringer,51,51: Full Circle,Shallan Davar,"1,225.00",0.27%,
+Oathbringer,52,52: After His Father,Dalinar Kholin (flashback),"2,551.00",0.56%,
+Oathbringer,53,53: Such a Twisted Cut,Jasnah Kholin,"3,691.00",0.81%,
+Oathbringer,54,54: An Ancient Singer's Name,Moash,"2,786.00",0.61%,
+Oathbringer,55,55: Alone Together,Rlain,"2,872.00",0.63%,
+Oathbringer,56,56: Always with You,Dalinar Kholin,"1,985.00",0.44%,
+Oathbringer,57,57: Passion,Dalinar Kholin,"1,948.00",0.43%,
+Oathbringer,57.1,I-4: Kaza,Kaza,"3,207.00",0.71%,
+Oathbringer,57.2,I-5: Taravangian,Taravangian,"3,183.00",0.70%,
+Oathbringer,57.3,I-6: This One Is Mine,Venli,"2,105.00",0.46%,
+Oathbringer,58,58: Burdens,Dalinar Kholin,"2,247.00",0.49%,
+Oathbringer,59,59: Bondsmith,Dalinar Kholin,"5,343.00",1.18%,
+Oathbringer,60,60: Winds and Oaths,Kaladin,"2,460.00",0.54%,
+Oathbringer,61,61: Nightmare Made Manifest,Kaladin,"4,492.00",0.99%,
+Oathbringer,62,62: Research,Shallan Davar,"4,196.00",0.92%,
+Oathbringer,63,63: Within the Mirror,Shallan Davar,"3,241.00",0.71%,
+Oathbringer,64,64: Binder of Gods,Dalinar Kholin,"2,835.00",0.62%,
+Oathbringer,65,65: Verdict,Dalinar Kholin,"4,881.00",1.07%,
+Oathbringer,66,66: Strategist,Dalinar Kholin (flashback),"2,567.00",0.56%,
+Oathbringer,67,67: Mishim,Shallan Davar,"4,458.00",0.98%,
+Oathbringer,68,68: Aim for the Sun,Shallan Davar,"3,225.00",0.71%,
+Oathbringer,69,"69: Free Meal, No Strings",Kaladin,"2,787.00",0.61%,
+Oathbringer,70,70: Highmarshal Azure,Kaladin,"2,580.00",0.57%,
+Oathbringer,71,71: A Sign of Humanity,Dalinar Kholin (flashback),"3,195.00",0.70%,
+Oathbringer,72,72: Rockfall,Shallan Davar,"4,111.00",0.90%,
+Oathbringer,73,73: Telling Which Stories,Kaladin,"3,899.00",0.86%,
+Oathbringer,74,74: Swiftspren,Shallan Davar,"2,520.00",0.55%,
+Oathbringer,75,75: Only Red,Dalinar Kholin (flashback),"2,622.00",0.58%,
+Oathbringer,76,76: An Animal,Dalinar Kholin (flashback),"3,364.00",0.74%,
+Oathbringer,77,77: Stormshelter,Kaladin,"2,044.00",0.45%,
+Oathbringer,77,77: Stormshelter,Shallan Davar,"2,468.00",0.54%,
+Oathbringer,78,78: The Revel,Shallan Davar,537.00,0.12%,
+Oathbringer,78,78: The Revel,Kaladin,595.00,0.13%,
+Oathbringer,78,78: The Revel,Shallan Davar,"1,317.00",0.29%,
+Oathbringer,78,78: The Revel,Kaladin,612.00,0.13%,
+Oathbringer,78,78: The Revel,Shallan Davar,622.00,0.14%,
+Oathbringer,79,79: Echoes of Thunder,Kaladin,"2,061.00",0.45%,
+Oathbringer,80,80: Oblivious,Shallan Davar,"1,372.00",0.30%,
+Oathbringer,81,81: Ithi and Her Sister,Kaladin,975.00,0.21%,
+Oathbringer,82,82: The Girl Who Stood Up,Shallan Davar,"3,359.00",0.74%,
+Oathbringer,83,83: Crimson to Break,Adolin Kholin,"5,326.00",1.17%,
+Oathbringer,84,84: The One You Can Save,Kaladin,840.00,0.18%,
+Oathbringer,84,84: The One You Can Save,Shallan Davar,218.00,0.05%,
+Oathbringer,84,84: The One You Can Save,Kaladin,"1,148.00",0.25%,
+Oathbringer,84,84: The One You Can Save,Shallan Davar,601.00,0.13%,
+Oathbringer,84,84: The One You Can Save,Kaladin,411.00,0.09%,
+Oathbringer,84,84: The One You Can Save,Shallan Davar,554.00,0.12%,
+Oathbringer,84,84: The One You Can Save,Kaladin,960.00,0.21%,
+Oathbringer,85,85: Grieve Later,Adolin Kholin,601.00,0.13%,
+Oathbringer,85,85: Grieve Later,Shallan Davar,192.00,0.04%,
+Oathbringer,86,86: That Others May Stand,Dalinar Kholin,"1,384.00",0.30%,
+Oathbringer,87,87: This Place,Adolin Kholin,509.00,0.11%,
+Oathbringer,87.1,I-7: Envoy,Venli,"2,058.00",0.45%,
+Oathbringer,87.2,I-8: Mem,Mem,"1,185.00",0.26%,
+Oathbringer,97.3,I-9: True Labor Begins,Venli,314.00,0.07%,
+Oathbringer,87.4,I-10: Sheler,Sheler,878.00,0.19%,
+Oathbringer,87.5,I-11: Her Reward,Venli,"1,171.00",0.26%,
+Oathbringer,88,88: Voices,Dalinar Kholin (flashback),"2,008.00",0.44%,
+Oathbringer,89,89: Damnation,Adolin Kholin,"1,164.00",0.26%,
+Oathbringer,89,89: Damnation,Shallan Davar,"1,503.00",0.33%,
+Oathbringer,89,89: Damnation,Adolin Kholin,864.00,0.19%,
+Oathbringer,90,90: Reborn,Szeth,"1,643.00",0.36%,
+Oathbringer,91,91: Why He Froze,Kaladin,"1,798.00",0.40%,
+Oathbringer,92,92: Water Warm as Blood,Szeth,"3,318.00",0.73%,
+Oathbringer,93,93: Kata,Adolin Kholin,"1,923.00",0.42%,
+Oathbringer,94,94: A Small Bottle,Dalinar Kholin (flashback),678.00,0.15%,
+Oathbringer,95,95: Inescapable Void,Kaladin,"1,500.00",0.33%,
+Oathbringer,96,96: Pieces of a Fabrial,Navani Kholin,"4,407.00",0.97%,
+Oathbringer,97,97: Riino,Kaladin,"1,038.00",0.23%,
+Oathbringer,97,97: Riino,Shallan Davar,674.00,0.15%,
+Oathbringer,97,97: Riino,Kaladin,700.00,0.15%,
+Oathbringer,97,97: Riino,Shallan Davar,183.00,0.04%,
+Oathbringer,97,97: Riino,Kaladin,"1,427.00",0.31%,
+Oathbringer,98,98: Loopholes,Szeth,"2,593.00",0.57%,
+Oathbringer,99,99: Reachers,Kaladin,"3,567.00",0.78%,
+Oathbringer,100,100: An Old Friend,Dalinar Kholin,"3,628.00",0.80%,
+Oathbringer,101,101: Deadeye,Adolin Kholin,"2,515.00",0.55%,
+Oathbringer,102,102: Celebrant,Kaladin,"1,341.00",0.30%,
+Oathbringer,102,102: Celebrant,Shallan Davar,881.00,0.19%,
+Oathbringer,102,102: Celebrant,Kaladin,347.00,0.08%,
+Oathbringer,102,102: Celebrant,Shallan Davar,225.00,0.05%,
+Oathbringer,102,102: Celebrant,Kaladin,404.00,0.09%,
+Oathbringer,102,102: Celebrant,Shallan Davar,433.00,0.10%,
+Oathbringer,102,102: Celebrant,Kaladin,728.00,0.16%,
+Oathbringer,103,103: Hypocrite,Dalinar Kholin,"2,624.00",0.58%,
+Oathbringer,104,104: Strength,Navani Kholin,"2,783.00",0.61%,
+Oathbringer,105,"105: Spirit, Mind, and Body",Dalinar Kholin (flashback),"2,845.00",0.63%,
+Oathbringer,106,106: Law Is Light,Szeth,"1,779.00",0.39%,
+Oathbringer,107,107: The First Step,Dalinar Kholin,"4,829.00",1.06%,
+Oathbringer,107,107: The First Step,Taravangian,"1,295.00",0.28%,
+Oathbringer,108,108: Honor's Path,Shallan Davar,"3,622.00",0.80%,
+Oathbringer,108,108: Honor's Path,Kaladin,"1,611.00",0.35%,
+Oathbringer,108,108: Honor's Path,Adolin Kholin,463.00,0.10%,
+Oathbringer,109,109: Neshua Kadal,Dalinar Kholin,"1,142.00",0.25%,
+Oathbringer,109,109: Neshua Kadal,Venli,"2,445.00",0.54%,
+Oathbringer,109,109: Neshua Kadal,Dalinar Kholin,394.00,0.09%,
+Oathbringer,110,110: A Million Stars,Shallan Davar,"1,753.00",0.39%,
+Oathbringer,111,111: Eila Stele,Dalinar Kholin,"4,197.00",0.92%,
+Oathbringer,112,112: For the Living,Kaladin,"1,285.00",0.28%,
+Oathbringer,113,113: The Thing Men Do Best,Dalinar Kholin,"1,524.00",0.34%,
+Oathbringer,113.1,I-12: Rhythm of Withdrawal,Venli,767.00,0.17%,
+Oathbringer,113.2,I-13: Rysn,Rysn,"4,141.00",0.91%,
+Oathbringer,113.3,I-14: Teft,Teft,638.00,0.14%,
+Oathbringer,114,114: The Cost,Dalinar Kholin (flashback),"3,476.00",0.76%,
+Oathbringer,115,115: The Wrong Passion,Dalinar Kholin,510.00,0.11%,
+Oathbringer,115,115: The Wrong Passion,Shallan Davar,490.00,0.11%,
+Oathbringer,115,115: The Wrong Passion,Jasnah Kholin,352.00,0.08%,
+Oathbringer,115,115: The Wrong Passion,Venli,"1,129.00",0.25%,
+Oathbringer,115,115: The Wrong Passion,Teft,342.00,0.08%,
+Oathbringer,115,115: The Wrong Passion,Navani Kholin,334.00,0.07%,
+Oathbringer,115,115: The Wrong Passion,Venli,486.00,0.11%,
+Oathbringer,115,115: The Wrong Passion,Kaladin,171.00,0.04%,
+Oathbringer,115,115: The Wrong Passion,Venli,220.00,0.05%,
+Oathbringer,116,116: Alone,Kaladin,335.00,0.07%,
+Oathbringer,116,116: Alone,Dalinar Kholin,"1,067.00",0.23%,
+Oathbringer,116,116: Alone,Jasnah Kholin,104.00,0.02%,
+Oathbringer,116,116: Alone,Shallan Davar,337.00,0.07%,
+Oathbringer,116,116: Alone,Venli,259.00,0.06%,
+Oathbringer,116,116: Alone,Kaladin,602.00,0.13%,
+Oathbringer,116,116: Alone,Yanagawn,882.00,0.19%,
+Oathbringer,116,116: Alone,Shallan Davar,325.00,0.07%,
+Oathbringer,116,116: Alone,Szeth,372.00,0.08%,
+Oathbringer,116,116: Alone,Kaladin,556.00,0.12%,
+Oathbringer,116,116: Alone,Navani Kholin,507.00,0.11%,
+Oathbringer,117,117: Champion with Nine Shadows,Dalinar Kholin,728.00,0.16%,
+Oathbringer,117,117: Champion with Nine Shadows,Adolin Kholin,713.00,0.16%,
+Oathbringer,117,117: Champion with Nine Shadows,Shallan Davar,591.00,0.13%,
+Oathbringer,117,117: Champion with Nine Shadows,Lift,584.00,0.13%,
+Oathbringer,117,117: Champion with Nine Shadows,Szeth,287.00,0.06%,
+Oathbringer,117,117: Champion with Nine Shadows,Kaladin,453.00,0.10%,
+Oathbringer,117,117: Champion with Nine Shadows,Dalinar Kholin,271.00,0.06%,
+Oathbringer,117,117: Champion with Nine Shadows,Lift,831.00,0.18%,
+Oathbringer,117,117: Champion with Nine Shadows,Navani Kholin,192.00,0.04%,
+Oathbringer,117,117: Champion with Nine Shadows,Shalash,344.00,0.08%,
+Oathbringer,117,117: Champion with Nine Shadows,Renarin Kholin,307.00,0.07%,
+Oathbringer,117,117: Champion with Nine Shadows,Dalinar Kholin,234.00,0.05%,
+Oathbringer,118,118: The Weight of It All,Dalinar Kholin,366.00,0.08%,
+Oathbringer,118,118: The Weight of It All,Szeth,516.00,0.11%,
+Oathbringer,118,118: The Weight of It All,Jasnah Kholin,50.00,0.01%,
+Oathbringer,118,118: The Weight of It All,Shalash,83.00,0.02%,
+Oathbringer,118,118: The Weight of It All,Kaladin,118.00,0.03%,
+Oathbringer,118,118: The Weight of It All,Lift,267.00,0.06%,
+Oathbringer,118,118: The Weight of It All,Navani Kholin,469.00,0.10%,
+Oathbringer,118,118: The Weight of It All,Dalinar Kholin,258.00,0.06%,
+Oathbringer,118,118: The Weight of It All,Teft,23.00,0.01%,
+Oathbringer,118,118: The Weight of It All,Kaladin,39.00,0.01%,
+Oathbringer,118,118: The Weight of It All,Dalinar Kholin,318.00,0.07%,
+Oathbringer,118,118: The Weight of It All,Szeth,139.00,0.03%,
+Oathbringer,118,118: The Weight of It All,Renarin Kholin,80.00,0.02%,
+Oathbringer,118,118: The Weight of It All,Venli,349.00,0.08%,
+Oathbringer,118,118: The Weight of It All,Kaladin,113.00,0.02%,
+Oathbringer,118,118: The Weight of It All,Jasnah Kholin,370.00,0.08%,
+Oathbringer,118,118: The Weight of It All,Dalinar Kholin,93.00,0.02%,
+Oathbringer,119,119: Unity,Dalinar Kholin,254.00,0.06%,
+Oathbringer,119,119: Unity,Renarin Kholin,210.00,0.05%,
+Oathbringer,119,119: Unity,Dalinar Kholin,44.00,0.01%,
+Oathbringer,119,119: Unity,Kaladin,59.00,0.01%,
+Oathbringer,119,119: Unity,Dalinar Kholin,192.00,0.04%,
+Oathbringer,119,119: Unity,Kaladin,103.00,0.02%,
+Oathbringer,119,119: Unity,Shalash,287.00,0.06%,
+Oathbringer,119,119: Unity,Teft,105.00,0.02%,
+Oathbringer,119,119: Unity,Renarin Kholin,326.00,0.07%,
+Oathbringer,119,119: Unity,Navani Kholin,102.00,0.02%,
+Oathbringer,119,119: Unity,Dalinar Kholin,253.00,0.06%,
+Oathbringer,119,119: Unity,Lift,240.00,0.05%,
+Oathbringer,119,119: Unity,Dalinar Kholin,883.00,0.19%,
+Oathbringer,120,120: The Spear That Would Not Break,Kaladin,221.00,0.05%,
+Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,509.00,0.11%,
+Oathbringer,120,120: The Spear That Would Not Break,Szeth,265.00,0.06%,
+Oathbringer,120,120: The Spear That Would Not Break,Kaladin,317.00,0.07%,
+Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,96.00,0.02%,
+Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,342.00,0.08%,
+Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,482.00,0.11%,
+Oathbringer,120,120: The Spear That Would Not Break,Jasnah Kholin,293.00,0.06%,
+Oathbringer,120,120: The Spear That Would Not Break,Szeth,696.00,0.15%,
+Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,825.00,0.18%,
+Oathbringer,120,120: The Spear That Would Not Break,Kaladin,659.00,0.15%,
+Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,140.00,0.03%,
+Oathbringer,120,120: The Spear That Would Not Break,Jasnah Kholin,599.00,0.13%,
+Oathbringer,120,120: The Spear That Would Not Break,Szeth,491.00,0.11%,
+Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,278.00,0.06%,
+Oathbringer,120,120: The Spear That Would Not Break,Kaladin,855.00,0.19%,
+Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,"1,099.00",0.24%,
+Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,183.00,0.04%,
+Oathbringer,120,120: The Spear That Would Not Break,Venli,624.00,0.14%,
+Oathbringer,120,120: The Spear That Would Not Break,Adolin Kholin,"1,709.00",0.38%,
+Oathbringer,120,120: The Spear That Would Not Break,Szeth,711.00,0.16%,
+Oathbringer,120,120: The Spear That Would Not Break,Kaladin,"1,629.00",0.36%,
+Oathbringer,120,120: The Spear That Would Not Break,Renarin Kholin,325.00,0.07%,
+Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,816.00,0.18%,
+Oathbringer,120,120: The Spear That Would Not Break,Renarin Kholin,"1,122.00",0.25%,
+Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,278.00,0.06%,
+Oathbringer,120,120: The Spear That Would Not Break,Renarin Kholin,528.00,0.12%,
+Oathbringer,120,120: The Spear That Would Not Break,Dalinar Kholin,353.00,0.08%,
+Oathbringer,120,120: The Spear That Would Not Break,Kaladin,948.00,0.21%,
+Oathbringer,120,120: The Spear That Would Not Break,Shallan Davar,294.00,0.06%,
+Oathbringer,120,120: The Spear That Would Not Break,Kaladin,152.00,0.03%,
+Oathbringer,121,121: Ideals,Moash,805.00,0.18%,
+Oathbringer,121,121: Ideals,Navani Kholin,441.00,0.10%,
+Oathbringer,121,121: Ideals,Shallan Davar,"1,057.00",0.23%,
+Oathbringer,121,121: Ideals,Venli,490.00,0.11%,
+Oathbringer,121,121: Ideals,Szeth,468.00,0.10%,
+Oathbringer,121,121: Ideals,Shallan Davar,"1,275.00",0.28%,
+Oathbringer,121,121: Ideals,Kaladin,"1,158.00",0.25%,
+Oathbringer,121,121: Ideals,Dalinar Kholin,460.00,0.10%,
+Oathbringer,121,121: Ideals,Moash,339.00,0.07%,
+Oathbringer,121,121: Ideals,Lopen,"1,598.00",0.35%,
+Oathbringer,121,121: Ideals,Shalash,479.00,0.11%,
+Oathbringer,122,122: A Debt Repaid,Kaladin,431.00,0.09%,
+Oathbringer,122,122: A Debt Repaid,Taravangian,"2,083.00",0.46%,
+Oathbringer,122,122: A Debt Repaid,Shallan Davar,"1,705.00",0.38%,
+Oathbringer,122,122: A Debt Repaid,Palona,398.00,0.09%,
+Oathbringer,122,122: A Debt Repaid,Moash,481.00,0.11%,
+Oathbringer,122,122: A Debt Repaid,Shallan Davar,"1,106.00",0.24%,
+Oathbringer,122,122: A Debt Repaid,Dalinar Kholin,"1,046.00",0.23%,
+Rhythm of War,0,Prologue: To Pretend,Navani Kholin,"5,812.00",1.27%,
+Rhythm of War,1,Chapter 1: Calluses,Lirin,"3,918.00",0.86%,
+Rhythm of War,2,Chapter 2: Severed Cords,Kaladin,"2,572.00",0.56%,
+Rhythm of War,2,Chapter 2: Severed Cords,Shallan Davar,"1,438.00",0.32%,
+Rhythm of War,2,Chapter 2: Severed Cords,Kaladin,"2,199.00",0.48%,
+Rhythm of War,3,Chapter 3: The Fourth Bridge,Navani Kholin,"3,698.00",0.81%,
+Rhythm of War,4,Chapter 4: Architects of the Future,Shallan Davar,"1,960.00",0.43%,
+Rhythm of War,5,Chapter 5: Broken Spears,Kaladin,"2,689.00",0.59%,
+Rhythm of War,5,Chapter 5: Broken Spears,Shallan Davar,945.00,0.21%,
+Rhythm of War,5,Chapter 5: Broken Spears,Kaladin,"1,467.00",0.32%,
+Rhythm of War,6,Chapter 6: A Loose Thread,Shallan Davar,"1,102.00",0.24%,
+Rhythm of War,6,Chapter 6: A Loose Thread,Kaladin,582.00,0.13%,
+Rhythm of War,6,Chapter 6: A Loose Thread,Navani Kholin,"1,645.00",0.36%,
+Rhythm of War,6,Chapter 6: A Loose Thread,Kaladin,"1,469.00",0.32%,
+Rhythm of War,7,Chapter 7: The Rarest Vintage,Shallan Davar,"2,837.00",0.62%,
+Rhythm of War,7,Chapter 7: The Rarest Vintage,Kaladin,"1,384.00",0.30%,
+Rhythm of War,7,Chapter 7: The Rarest Vintage,Shallan Davar,691.00,0.15%,
+Rhythm of War,8,Chapter 8: Surrender,Kaladin,"1,048.00",0.23%,
+Rhythm of War,8,Chapter 8: Surrender,Shallan Davar,"1,593.00",0.35%,
+Rhythm of War,8,Chapter 8: Surrender,Kaladin,"1,179.00",0.26%,
+Rhythm of War,9,Chapter 9: Contradictions,Kaladin,"1,580.00",0.35%,
+Rhythm of War,9,Chapter 9: Contradictions,Navani Kholin,"2,317.00",0.51%,
+Rhythm of War,9,Chapter 9: Contradictions,Shallan Davar,"2,217.00",0.49%,
+Rhythm of War,10,Chapter 10: A Single Casualty,Kaladin,"3,483.00",0.76%,
+Rhythm of War,11,Chapter 11: Passion and Courage,Venli,"4,551.00",1%,
+Rhythm of War,12,Chapter 12: A Way to Help,Kaladin,"6,486.00",1.42%,
+Rhythm of War,13,Chapter 13: Another Hunt,Shallan Davar,"6,316.00",1.39%,
+Rhythm of War,14,Chapter 14: Voice,Venli,"6,331.00",1.39%,
+Rhythm of War,15,Chapter 15: The Light and the Music,Kaladin,"6,532.00",1.43%,
+Rhythm of War,16,Chapter 16: An Unknown Song,Navani Kholin,"5,037.00",1.10%,
+Rhythm of War,17,Chapter 17: A Proposal,Navani Kholin,"5,104.00",1.12%,
+Rhythm of War,18,Chapter 18: Surgeon,Kaladin,"3,249.00",0.71%,
+Rhythm of War,19,Chapter 19: Garnets,Navani Kholin,"7,516.00",1.65%,
+Rhythm of War,19.1,Interlude I-1: Sylphrena,Syl,"2,829.00",0.62%,
+Rhythm of War,19.2,Interlude I-2: Sja-anat,Sja-anat,"1,363.00",0.30%,
+Rhythm of War,19.3,Interlude I-3: Into the Fire,Taravangian,"1,526.00",0.33%,
+Rhythm of War,20,Chapter 20: The Unseen Court,Shallan Davar,"3,319.00",0.73%,
+Rhythm of War,21,Chapter 21: The Seething Knot,Adolin Kholin,"6,222.00",1.36%,
+Rhythm of War,22,Chapter 22: No Use Talking,Adolin Kholin,"5,121.00",1.12%,
+Rhythm of War,22,Chapter 22: No Use Talking,Shallan Davar,178.00,0.04%,
+Rhythm of War,23,Chapter 23: Binding Wounds,Kaladin,"2,660.00",0.58%,
+Rhythm of War,24,Chapter 24: Full of Awe,Shallan Davar,"2,867.00",0.63%,
+Rhythm of War,25,Chapter 25: Devotary of Mercy,Kaladin,"3,996.00",0.88%,
+Rhythm of War,26,Chapter 26: A Little Espionage,Shallan Davar,"7,343.00",1.61%,
+Rhythm of War,27,Chapter 27: Banners,Navani Kholin,"3,813.00",0.84%,
+Rhythm of War,28,Chapter 28: Heresies,Navani Kholin,"1,448.00",0.32%,
+Rhythm of War,29,Chapter 29: A Cage Without Bars,Adolin Kholin,"1,951.00",0.43%,
+Rhythm of War,29,Chapter 29: A Cage Without Bars,Shallan Davar,"1,273.00",0.28%,
+Rhythm of War,29,Chapter 29: A Cage Without Bars,Adolin Kholin,"1,770.00",0.39%,
+Rhythm of War,30,Chapter 30: The Betrayal,Shallan Davar,"1,145.00",0.25%,
+Rhythm of War,30,Chapter 30: The Betrayal,Adolin Kholin,931.00,0.20%,
+Rhythm of War,30,Chapter 30: The Betrayal,Shallan Davar,675.00,0.15%,
+Rhythm of War,30,Chapter 30: The Betrayal,Adolin Kholin,"1,475.00",0.32%,
+Rhythm of War,31,Chapter 31: Daughter of Traitors,Venli,"2,163.00",0.47%,
+Rhythm of War,32,Chapter 32: Of Three Minds,Adolin Kholin,580.00,0.13%,
+Rhythm of War,32,Chapter 32: Of Three Minds,Shallan Davar,"2,188.00",0.48%,
+Rhythm of War,33,Chapter 33: Understanding,Kaladin,695.00,0.15%,
+Rhythm of War,34,Chapter 34: A Flame Never Extinguished,Shallan Davar,"4,886.00",1.07%,
+Rhythm of War,35,Chapter 35: The Strength of a Soldier,Adolin Kholin,954.00,0.21%,
+Rhythm of War,35,Chapter 35: The Strength of a Soldier,Shallan Davar,658.00,0.14%,
+Rhythm of War,35,Chapter 35: The Strength of a Soldier,Adolin Kholin,"3,310.00",0.73%,
+Rhythm of War,36,Chapter 36: The Price of Honor,Shallan Davar,"2,548.00",0.56%,
+Rhythm of War,36,Chapter 36: The Price of Honor,Adolin Kholin,"1,537.00",0.34%,
+Rhythm of War,37,Chapter 37: Silence From the Dead,Navani Kholin,"2,110.00",0.46%,
+Rhythm of War,37,Chapter 37: Silence From the Dead,Venli,965.00,0.21%,
+Rhythm of War,37,Chapter 37: Silence From the Dead,Kaladin,"1,029.00",0.23%,
+Rhythm of War,37,Chapter 37: Silence From the Dead,Venli,850.00,0.19%,
+Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Navani Kholin,585.00,0.13%,
+Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Venli,733.00,0.16%,
+Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Kaladin,"1,690.00",0.37%,
+Rhythm of War,38,Chapter 38: Rhythm of the Terrors,Venli,271.00,0.06%,
+Rhythm of War,39,Chapter 39: Invasion,Kaladin,591.00,0.13%,
+Rhythm of War,39,Chapter 39: Invasion,Navani Kholin,695.00,0.15%,
+Rhythm of War,39,Chapter 39: Invasion,Kaladin,"1,641.00",0.36%,
+Rhythm of War,39,Chapter 39: Invasion,Navani Kholin,948.00,0.21%,
+Rhythm of War,39,Chapter 39: Invasion,Kaladin,"1,313.00",0.29%,
+Rhythm of War,40,Chapter 40: In for All,Navani Kholin,"2,813.00",0.62%,
+Rhythm of War,41,Chapter 41: The Most Dangerous,Venli,"1,693.00",0.37%,
+Rhythm of War,41,Chapter 41: The Most Dangerous,Navani Kholin,"1,141.00",0.25%,
+Rhythm of War,41,Chapter 41: The Most Dangerous,Kaladin,"1,028.00",0.23%,
+Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,"1,287.00",0.28%,
+Rhythm of War,42,Chapter 42: Armor and Teeth,Kaladin,"1,105.00",0.24%,
+Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,739.00,0.16%,
+Rhythm of War,42,Chapter 42: Armor and Teeth,Venli,804.00,0.18%,
+Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,351.00,0.08%,
+Rhythm of War,42,Chapter 42: Armor and Teeth,Venli,697.00,0.15%,
+Rhythm of War,42,Chapter 42: Armor and Teeth,Navani Kholin,"1,644.00",0.36%,
+Rhythm of War,43,Chapter 43: Men and Monsters,Kaladin,"4,730.00",1.04%,
+Rhythm of War,43.1,Interlude I-4: Vyre,Moash,"2,171.00",0.48%,
+Rhythm of War,43.2,Interlude I-5: Lift,Lift,"3,811.00",0.84%,
+Rhythm of War,43.3,Interlude I-6: A Boon and a Curse,Taravangian,"3,144.00",0.69%,
+Rhythm of War,44,Chapter 44: Tinder Waiting for the Spark,Kaladin,"2,917.00",0.64%,
+Rhythm of War,45,"Chapter 45: A Bold Heart, a Keen and Crafty Mind",Eshonai (flashback),956.00,0.21%,
+Rhythm of War,45,"Chapter 45: A Bold Heart, a Keen and Crafty Mind",Venli (flashback),"1,982.00",0.43%,
+Rhythm of War,46,Chapter 46: The Weight of the Tower,Navani Kholin,"1,764.00",0.39%,
+Rhythm of War,46,Chapter 46: The Weight of the Tower,Kaladin,"1,974.00",0.43%,
+Rhythm of War,47,Chapter 47: A Cage Forged of Spirits,Dalinar Kholin,"2,865.00",0.63%,
+Rhythm of War,48,"Chapter 48: Scent of Death, Scent of Life",Eshonai (flashback),"2,336.00",0.51%,
+Rhythm of War,49,Chapter 49: Soul of Discovery,Navani Kholin,"2,231.00",0.49%,
+Rhythm of War,49,Chapter 49: Soul of Discovery,Kaladin,"2,785.00",0.61%,
+Rhythm of War,49,Chapter 49: Soul of Discovery,Navani Kholin,938.00,0.21%,
+Rhythm of War,50,Chapter 50: Queen,Dalinar Kholin,"6,186.00",1.36%,
+Rhythm of War,51,Chapter 51: To Sing Hopeless Songs,Venli,"1,818.00",0.40%,
+Rhythm of War,52,Chapter 52: A Path Toward Saving,Venli (flashback),"2,232.00",0.49%,
+Rhythm of War,53,Chapter 53: Compassion,Venli,"2,329.00",0.51%,
+Rhythm of War,54,Chapter 54: The Future Become Dust,Dalinar Kholin,"1,709.00",0.37%,
+Rhythm of War,54,Chapter 54: The Future Become Dust,Renarin Kholin,"1,456.00",0.32%,
+Rhythm of War,55,Chapter 55: Kinship with the Open Sky,Kaladin,"3,406.00",0.75%,
+Rhythm of War,56,Chapter 56: Nodes,Venli,"2,704.00",0.59%,
+Rhythm of War,57,Chapter 57: Child of Odium,Eshonai (flashback),"1,166.00",0.26%,
+Rhythm of War,57,Chapter 57: Child of Odium,Venli (flashback),"1,490.00",0.33%,
+Rhythm of War,57,Chapter 57: Child of Odium,Eshonai (flashback),783.00,0.17%,
+Rhythm of War,58,Chapter 58: Spanreeds,Kaladin,"2,601.00",0.57%,
+Rhythm of War,59,Chapter 59: The Lattice of a Growing Crystal,Kaladin,"5,397.00",1.18%,
+Rhythm of War,60,Chapter 60: Essai,Venli,"3,351.00",0.74%,
+Rhythm of War,61,Chapter 61: Oil and Water,Navani Kholin,"3,908.00",0.86%,
+Rhythm of War,62,Chapter 62: Keeper of Forms,Eshonai (flashback),"1,817.00",0.40%,
+Rhythm of War,63,Chapter 63: Practice,Kaladin,"3,747.00",0.82%,
+Rhythm of War,64,Chapter 64: Personal Reminder,Jasnah Kholin,"4,506.00",0.99%,
+Rhythm of War,65,Chapter 65: Hypothesis,Navani Kholin,"2,228.00",0.49%,
+Rhythm of War,66,Chapter 66: Bearer of Agonies,Dalinar Kholin,"3,547.00",0.78%,
+Rhythm of War,67,Chapter 67: Song of Stones,Venli,"2,213.00",0.49%,
+Rhythm of War,68,Chapter 68: One Family,Eshonai (flashback),"3,380.00",0.74%,
+Rhythm of War,69,Chapter 69: Pure Tones of Roshar,Navani Kholin,"4,010.00",0.88%,
+Rhythm of War,70,Chapter 70: Well,Kaladin,722.00,0.16%,
+Rhythm of War,70,Chapter 70: Well,Navani Kholin,241.00,0.05%,
+Rhythm of War,70,Chapter 70: Well,Kaladin,"5,216.00",1.14%,
+Rhythm of War,71,Chapter 71: Rider of Storms,Dalinar Kholin,"3,444.00",0.76%,
+Rhythm of War,72,Chapter 72: Outmatched,Navani Kholin,586.00,0.13%,
+Rhythm of War,72.1,Interlude I-7: Szeth,Szeth,"1,743.00",0.38%,
+Rhythm of War,72.2,Interlude I-8: Chiri-Chiri,Chiri-Chiri,"1,129.00",0.25%,
+Rhythm of War,72.3,Interlude I-9: The Sword,Taravangian,"1,587.00",0.35%,
+Rhythm of War,73,Chapter 73: Which Master to Follow,Venli (flashback),"2,449.00",0.54%,
+Rhythm of War,74,Chapter 74: A Symbol,Venli,"2,338.00",0.51%,
+Rhythm of War,75,Chapter 75: The Middle Step,Adolin Kholin,"1,325.00",0.29%,
+Rhythm of War,75,Chapter 75: The Middle Step,Shallan Davar,"3,266.00",0.72%,
+Rhythm of War,76,Chapter 76: Harmony,Navani Kholin,"3,687.00",0.81%,
+Rhythm of War,77,Chapter 77: The Proper Legality,Venli (flashback),"4,196.00",0.92%,
+Rhythm of War,78,Chapter 78: The High Judge,Shallan Davar,"1,278.00",0.28%,
+Rhythm of War,78,Chapter 78: The High Judge,Adolin Kholin,"2,355.00",0.52%,
+Rhythm of War,78,Chapter 78: The High Judge,Shallan Davar,285.00,0.06%,
+Rhythm of War,79,Chapter 79: Open Wound,Rlain,"2,832.00",0.62%,
+Rhythm of War,80,Chapter 80: The Dog and the Dragon,Kaladin,"5,620.00",1.23%,
+Rhythm of War,81,Chapter 81: Trapped,Eshonai (flashback),"1,430.00",0.31%,
+Rhythm of War,81,Chapter 81: Trapped,Venli (flashback),391.00,0.09%,
+Rhythm of War,82,Chapter 82: Knife,Shallan Davar,"1,903.00",0.42%,
+Rhythm of War,82,Chapter 82: Knife,Adolin Kholin,879.00,0.19%,
+Rhythm of War,83,Chapter 83: The Games of Men and Singers,Venli,"3,727.00",0.82%,
+Rhythm of War,84,Chapter 84: Scholar,Navani Kholin,"2,451.00",0.54%,
+Rhythm of War,85,Chapter 85: Dabbid,Dabbid,"2,258.00",0.50%,
+Rhythm of War,86,Chapter 86: The Song of Mornings,Venli (flashback),"2,992.00",0.66%,
+Rhythm of War,87,Chapter 87: Trial by Witness,Adolin Kholin,"4,151.00",0.91%,
+Rhythm of War,87,Chapter 87: Trial by Witness,Shallan Davar,"1,203.00",0.26%,
+Rhythm of War,88,Chapter 88: Falling Star,Eshonai (flashback),"1,302.00",0.29%,
+Rhythm of War,89,Chapter 89: Voice of Lights,Navani Kholin,"2,837.00",0.62%,
+Rhythm of War,90,Chapter 90: One Chance,Adolin Kholin,"2,402.00",0.53%,
+Rhythm of War,90,Chapter 90: One Chance,Shallan Davar,989.00,0.22%,
+Rhythm of War,91,Chapter 91: Worth Saving,Teft,"2,667.00",0.59%,
+Rhythm of War,92,Chapter 92: A Gift,Venli,"1,453.00",0.32%,
+Rhythm of War,93,Chapter 93: Strong Enough,Shallan Davar,"3,627.00",0.80%,
+Rhythm of War,94,Chapter 94: Sacrifice,Adolin Kholin,"3,426.00",0.75%,
+Rhythm of War,95,Chapter 95: What She Truly Was,Venli (flashback),"1,896.00",0.42%,
+Rhythm of War,96,Chapter 96: A Thousand Lies,Venli,"1,245.00",0.27%,
+Rhythm of War,97,Chapter 97: Freedom,Navani Kholin,"4,960.00",1.09%,
+Rhythm of War,97.1,Interlude I-10: Hesina,Hesina,"1,902.00",0.42%,
+Rhythm of War,97.2,Interlude I-11: Adin,Adin,"1,371.00",0.30%,
+Rhythm of War,97.3,Interlude I-12: Vulnerable,Taravangian,"1,319.00",0.29%,
+Rhythm of War,98,Chapter 98: An Unwholesome Shade,Dalinar Kholin,"1,854.00",0.41%,
+Rhythm of War,99,Chapter 99: Not Bound,Jasnah Kholin,"2,374.00",0.52%,
+Rhythm of War,100,Chapter 100: Watchers at the Rim,Kaladin,"1,054.00",0.23%,
+Rhythm of War,101,Chapter 101: Undertext,Dalinar Kholin,"3,709.00",0.81%,
+Rhythm of War,102,Chapter 102: Highstorm Coming,Venli,"1,151.00",0.25%,
+Rhythm of War,102,Chapter 102: Highstorm Coming,Navani Kholin,"1,589.00",0.35%,
+Rhythm of War,102,Chapter 102: Highstorm Coming,Kaladin,867.00,0.19%,
+Rhythm of War,103,Chapter 103: The Legend You Live,Teft,"1,117.00",0.25%,
+Rhythm of War,103,Chapter 103: The Legend You Live,Kaladin,510.00,0.11%,
+Rhythm of War,103,Chapter 103: The Legend You Live,Teft,294.00,0.06%,
+Rhythm of War,104,Chapter 104: Full of Hope,Rlain,459.00,0.10%,
+Rhythm of War,104,Chapter 104: Full of Hope,Kaladin,563.00,0.12%,
+Rhythm of War,104,Chapter 104: Full of Hope,Venli,467.00,0.10%,
+Rhythm of War,104,Chapter 104: Full of Hope,Teft,979.00,0.21%,
+Rhythm of War,105,Chapter 105: Children of Passions,Kaladin,598.00,0.13%,
+Rhythm of War,105,Chapter 105: Children of Passions,Moash,639.00,0.14%,
+Rhythm of War,105,Chapter 105: Children of Passions,Navani Kholin,700.00,0.15%,
+Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Kaladin,258.00,0.06%,
+Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Navani Kholin,649.00,0.14%,
+Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Venli,972.00,0.21%,
+Rhythm of War,106,Chapter 106: A Hundred Discordant Rhythms,Kaladin,371.00,0.08%,
+Rhythm of War,107,Chapter 107: Uniting,Navani Kholin,386.00,0.08%,
+Rhythm of War,107,Chapter 107: Uniting,Dalinar Kholin,126.00,0.03%,
+Rhythm of War,107,Chapter 107: Uniting,Kaladin,110.00,0.02%,
+Rhythm of War,107,Chapter 107: Uniting,Dalinar Kholin,169.00,0.04%,
+Rhythm of War,107,Chapter 107: Uniting,Venli,378.00,0.08%,
+Rhythm of War,107,Chapter 107: Uniting,Kaladin,274.00,0.06%,
+Rhythm of War,107,Chapter 107: Uniting,Dalinar Kholin,214.00,0.05%,
+Rhythm of War,108,Chapter 108: Moments,Kaladin,"1,387.00",0.30%,
+Rhythm of War,109,Chapter 109: Emulsifier,Venli,351.00,0.08%,
+Rhythm of War,109,Chapter 109: Emulsifier,Navani Kholin,293.00,0.06%,
+Rhythm of War,109,Chapter 109: Emulsifier,Rlain,"1,438.00",0.32%,
+Rhythm of War,110,Chapter 110: Reborn,Kaladin,237.00,0.05%,
+Rhythm of War,110,Chapter 110: Reborn,Navani Kholin,674.00,0.15%,
+Rhythm of War,110,Chapter 110: Reborn,Lirin,467.00,0.10%,
+Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,"1,359.00",0.30%,
+Rhythm of War,111,Chapter 111: Unchained,Rlain,503.00,0.11%,
+Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,"2,051.00",0.45%,
+Rhythm of War,111,Chapter 111: Unchained,Navani Kholin,523.00,0.11%,
+Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,820.00,0.18%,
+Rhythm of War,111,Chapter 111: Unchained,Adin,899.00,0.20%,
+Rhythm of War,111,Chapter 111: Unchained,Dalinar Kholin,800.00,0.18%,
+Rhythm of War,111,Chapter 111: Unchained,Moash,490.00,0.11%,
+Rhythm of War,112,Chapter 112: Terms,Dalinar Kholin,"3,536.00",0.78%,
+Rhythm of War,113,Chapter 113: Emotion,Navani Kholin,879.00,0.19%,
+Rhythm of War,113,Chapter 113: Emotion,Taravangian,"1,679.00",0.37%,
+Rhythm of War,114,Chapter 114: Broken Gods,Rlain,650.00,0.14%,
+Rhythm of War,114,Chapter 114: Broken Gods,Taravangian,403.00,0.09%,
+Rhythm of War,114,Chapter 114: Broken Gods,Kaladin,567.00,0.12%,
+Rhythm of War,114,Chapter 114: Broken Gods,Taravangian,573.00,0.13%,
+Rhythm of War,115,Chapter 115: Testament,Shallan Davar,"1,442.00",0.32%,
+Rhythm of War,115,Chapter 115: Testament,Venli,"1,089.00",0.24%,
+Rhythm of War,116,Chapter 116: Mercy,Kaladin,969.00,0.21%,
+Rhythm of War,116,Chapter 116: Mercy,Lezian,578.00,0.13%,
+Rhythm of War,116,Chapter 116: Mercy,Kaladin,357.00,0.08%,
+Rhythm of War,116,Chapter 116: Mercy,Dalinar Kholin,892.00,0.20%,
+Rhythm of War,117,Chapter 117: One Final Gift,Eshonai (flashback),"1,732.00",0.38%,
+Rhythm of War,118,Epilogue: Dirty Tricks,Wit,"1,972.00",0.43%,
+Edgedancer,1,Chapter 1,Lift,"2,313.00",5.69%,
+Edgedancer,2,Chapter 2,Lift,"2,200.00",5.41%,
+Edgedancer,3,Chapter 3,Hauka,"2,087.00",5.13%,
+Edgedancer,4,Chapter 4,Lift,"1,728.00",4.25%,
+Edgedancer,5,Chapter 5,Lift,441.00,1.08%,
+Edgedancer,6,Chapter 6,Lift,"2,460.00",6.05%,
+Edgedancer,7,Chapter 7,Lift,"2,257.00",5.55%,
+Edgedancer,8,Chapter 8,Lift,"3,973.00",9.77%,
+Edgedancer,9,Chapter 9,Lift,"1,738.00",4.27%,
+Edgedancer,10,Chapter 10,Lift,"2,134.00",5.25%,
+Edgedancer,11,Chapter 11,Lift,936.00,2.30%,
+Edgedancer,12,Chapter 12,Lift,"1,134.00",2.79%,
+Edgedancer,13,Chapter 13,Lift,"1,736.00",4.27%,
+Edgedancer,14,Chapter 14,Lift,"2,924.00",7.19%,
+Edgedancer,15,Chapter 15,Lift,"2,006.00",4.93%,
+Edgedancer,16,Chapter 16,Lift,892.00,2.19%,
+Edgedancer,17,Chapter 17,Lift,"1,808.00",4.45%,
+Edgedancer,18,Chapter 18,Lift,"2,858.00",7.03%,
+Edgedancer,19,Chapter 19,Lift,"2,949.00",7.25%,
+Edgedancer,20,Chapter 20,Lift,"2,086.00",5.13%,
+Dawnshard,0,Prologue,Yalb,"1,361.00",2.47%,
+Dawnshard,1,Chapter 1,Rysn Ftori,"2,659.00",4.83%,
+Dawnshard,2,Chapter 2,Rysn Ftori,"3,365.00",6.11%,
+Dawnshard,3,Chapter 3,Lopen,"2,660.00",4.83%,
+Dawnshard,4,Chapter 4,Rysn Ftori,"2,848.00",5.17%,
+Dawnshard,5,Chapter 5,Rysn Ftori,"2,768.00",5.02%,
+Dawnshard,6,Chapter 6,Rysn Ftori,"2,635.00",4.78%,
+Dawnshard,6,Chapter 6,Nikliasorm,883.00,1.60%,
+Dawnshard,7,Chapter 7,Lopen,"2,491.00",4.52%,
+Dawnshard,8,Chapter 8,Rysn Ftori,"2,037.00",3.70%,
+Dawnshard,9,Chapter 9,Rysn Ftori,"5,465.00",9.92%,
+Dawnshard,10,Chapter 10,Rysn Ftori,"2,782.00",5.05%,
+Dawnshard,11,Chapter 11,Lopen,"2,507.00",4.55%,
+Dawnshard,12,Chapter 12,Rysn Ftori,"1,528.00",2.77%,
+Dawnshard,13,Chapter 13,Lopen,"1,880.00",3.41%,
+Dawnshard,14,Chapter 14,Rysn Ftori,"1,035.00",1.88%,
+Dawnshard,15,Chapter 15,Lopen,"2,558.00",4.64%,
+Dawnshard,15,Chapter 15,Rysn Ftori,985.00,1.79%,
+Dawnshard,16,Chapter 16,Rysn Ftori,"2,181.00",3.96%,
+Dawnshard,17,Chapter 17,Lopen,536.00,0.97%,
+Dawnshard,17,Chapter 17,Rysn Ftori,392.00,0.71%,
+Dawnshard,18,Chapter 18,Lopen,860.00,1.56%,
+Dawnshard,18,Chapter 18,Rysn Ftori,"1,313.00",2.38%,
+Dawnshard,18,Chapter 18,Lopen,334.00,0.61%,
+Dawnshard,18,Chapter 18,Rysn Ftori,811.00,1.47%,
+Dawnshard,19,Chapter 19,Lopen,255.00,0.46%,
+Dawnshard,19,Chapter 19,Rysn Ftori,"3,549.00",6.44%,
+Dawnshard,20,Epilogue,Lopen,"1,326.00",2.41%,
+Dawnshard,20,Epilogue,Rysn Ftori,"1,092.00",1.98%,
